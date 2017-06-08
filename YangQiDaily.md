@@ -10,12 +10,28 @@
 
 关于「学术论文／研究项目／工程项目／创业项目」：
 
+1. 服务端：
 
-- [python基础 -- get！](http://www.runoob.com/python/python-tutorial.html) Jun 5
+- 1.1. Python：
+  - > 字符串、列表、字典、元组
+
+    > IO、异常、面向对象、多线程、正则
+
+    参考自：[python基础 -- get！](http://www.runoob.com/python/python-tutorial.html) Jun 5
 
 
-- [sql基础 - get!](http://www.runoob.com/sql/sql-tutorial.html)  Jun 7
+2. 数据库：
 
+- 2.1.SQL:
+  - > 查找、晒选、插入、更新、匹配、函数
+
+    参考自：[sql基础 - get!](http://www.runoob.com/sql/sql-tutorial.html)  Jun 7 
+
+- 2.2. Mysql：
+
+  - > Sql、索引、正则、导入、注入
+
+  ​       参考自：[mysql基础 - get!](http://www.runoob.com/mysql/mysql-tutorial.html)  Jun 8
 
 ### 
 
