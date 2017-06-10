@@ -8,13 +8,25 @@
 
 关于「学术论文／研究项目／工程项目／创业项目」：
 
+### 关于「专业书」：
+
+### 关于「新技能」：
+
+数据获取：爬虫
+
+数据预处理：自然语言处理
+
+数据挖掘：建模
+
+大数据：Spark、Scala
+
 ### 关于「论文」：1%
 
 数量：
 
 ### 关于「当前系统项目」：**40%**
 
-#### 1.**目标明确**
+**1.目标明确**
 
 ：任务要明确，稍微改一点点，就是另一个目标了。参考自：[王露平博士](http://see.xidian.edu.cn/html/news/7897.html)
 
@@ -34,7 +46,7 @@
 
 1.2.3参考：
 
-#### 2.业务理解数据
+**2.业务理解数据**
 
 2.1**特征维度选择**
 
@@ -52,7 +64,7 @@
 
 2.2.3参考：
 
-#### 3.图谱构建
+**3.图谱构建**
 
 3.1**图谱构建**
 
@@ -70,7 +82,7 @@
 
 3.2.3参考：
 
-#### 4.单模型特征应用
+**4.单模型特征应用**
 
 4.1**回归模型选择**
 
@@ -88,7 +100,7 @@
 
 4.2.3参考：
 
-#### 5.多层级模型特征应用
+**5.多层级模型特征应用**
 
 5.1**架构搭建**
 
@@ -114,7 +126,17 @@
 
 [sql基础 - get!](http://www.runoob.com/sql/sql-tutorial.html) 查询、筛选、插入、更新、连接、合并、约束、删除、更改、函数
 
- [mysql基础 - get!](http://www.runoob.com/mysql/mysql-tutorial.html) 匹配、索引、临时表、正则、去重、SQL注入
+[mysql基础 - get!](http://www.runoob.com/mysql/mysql-tutorial.html) 匹配、索引、临时表、正则、去重、SQL注入
+
+> 开发工具：
+
+[git基础 - get!](http://www.runoob.com/git/git-tutorial.html)  分布式版本控制系统、克隆、修改、提交、工作区、版本库、分支、主线、合并、提交历史、标签、[github](http://www.runoob.com/w3cnote/git-guide.html)
+
+> 网站建设：
+
+[HTTP基础 - get!](http://www.runoob.com/http/http-tutorial.html)  HyperText Transfer Protocol、超文本传输协议、TCP/IP传输控制协议/因特网互联协议、客户端-服务端架构、C/S、通讯流程、消息结构、客户端请求消息、服务器响应消息、请求方法、HTTP状态码
+
+[网站建设指南 - get!](http://www.runoob.com/web/web-buildingprimer.html)   
 
 
 
@@ -139,7 +161,6 @@
   >
 
   - 有感于：[高考40年，阶层分流的历史使命早就已经结束了](https://mp.weixin.qq.com/s?__biz=MzI0NzA3MTM5NQ%3D%3D&mid=2650557246&idx=1&sn=491c608e588acfdc6eaa05ddc4cccb9d#wechat_redirect) Jun 7
-
 
 
 
