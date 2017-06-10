@@ -2,42 +2,95 @@
 
 ​    
 
- ##                      **「进攻」是最好的「防御」**    
-
-​                                                                                                                   不可胜，守；可胜，攻也；  
+ ##                      **「系统Qi」** 
 
 -----
 
 关于「学术论文／研究项目／工程项目／创业项目」：
 
-1. 服务端：
+### 关于「论文」：1%
 
-- 1.1. Python：
-  - > 字符串、列表、字典、元组
+数量：
 
-    > IO、异常、面向对象、多线程、正则
+### 关于「当前系统项目」：**40%**
 
-    参考自：[python基础 -- get！](http://www.runoob.com/python/python-tutorial.html) Jun 5
+#### 第一大步：**目标明确**
+
+- 任务要明确，稍微改一点点，就是另一个目标了。参考自：[王露平博士](http://see.xidian.edu.cn/html/news/7897.html)
+
+  *数据获取**
 
 
-2. 数据库：
+- 工作：
+  - **理解**甲方提供Excel版：数据字典／样本数据：(订单明细、POP信息、POP商家评分、商品评论、商品基础信息等19张表格)
+  - **存储到mysql数据库中**：「数据导入」「数据库建表」等
+- 工具：[Linux基础 - get!](http://www.runoob.com/linux/linux-tutorial.html) 、 [sql基础 - get!](http://www.runoob.com/sql/sql-tutorial.html) 、   [mysql基础 - get!](http://www.runoob.com/mysql/mysql-tutorial.html)  
+- 参考：
 
-- 2.1.SQL:
-  - > 查找、晒选、插入、更新、匹配、函数
+第二步**数据初步分析**
 
-    参考自：[sql基础 - get!](http://www.runoob.com/sql/sql-tutorial.html)  Jun 7 
+- 工作：原始19张表的数据分布初步探索「数据均值等分布」
+- 工具：[python基础 -- get！](http://www.runoob.com/python/python-tutorial.html) 、pandas
+- 参考：
 
-- 2.2. Mysql：
+#### 第二大步：业务理解数据
 
-  - > Sql、索引、正则、导入、注入
+第一步**特征维度选择**
 
-  ​       参考自：[mysql基础 - get!](http://www.runoob.com/mysql/mysql-tutorial.html)  Jun 8
+- 工作：从原始19张表中结合业务理解，选择特征维度及特征列表
+- 工具：Hive。
+- 参考：
 
-### 
+第二步**特征维度融合**
+
+- 工作：特征列表汇总到**核心目标**业务上的特征维度
+- 工具：Hive。
+- 参考：
+
+#### 第三大步：图谱构建
+
+第一步**图谱构建**
+
+- 工作：依据特征维度，构建图谱
+- 工具：Hive
+- 参考：
+
+第二步图谱分析
+
+- 工作：基于图谱，提取特征
+- 工具：[python基础 -- get！](http://www.runoob.com/python/python-tutorial.html)、NetworkX
+- 参考：
+
+#### 第四大步：单模型特征应用
+
+第一步**回归模型选择**
+
+- 工作：单模型对提取出的特征进行评估
+- 工具：scikit-learn、XGB。
+- 参考：
+
+附：文本相似度分析过程：
+
+- 工作：匹配SELF与POP的名称
+- 工具：gensim、[python基础 -- get！](http://www.runoob.com/python/python-tutorial.html) 。
+- 参考：
+
+#### 第五大步：多层级模型特征应用
+
+第一步**架构搭建**
+
+- 工作：多模型的架构搭建
+- 工具：
+
+-----
+
+### 关于「基础技能」：
+
+[python基础 - get！](http://www.runoob.com/python/python-tutorial.html)、[Linux基础 - get!](http://www.runoob.com/linux/linux-tutorial.html) 、[sql基础 - get!](http://www.runoob.com/sql/sql-tutorial.html) 、 [mysql基础 - get!](http://www.runoob.com/mysql/mysql-tutorial.html)、[Docker基础 - get!](http://www.runoob.com/docker/docker-tutorial.html)
 
 --------
 
-关于「Life」：
+### 关于「Life」：
 
 - **结果**=**80%**(100%**想法**+100%**实施**)  
 
@@ -61,7 +114,7 @@
 
 
 ------
-关于基础知识：如下：
+### 关于「基础知识」：如下：
 
 
 #### 1.刷题
