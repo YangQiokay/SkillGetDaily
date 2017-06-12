@@ -185,3 +185,50 @@
 - 目的分析：系统性质的项目过程， **「 灵活的经验才能被主流朝拜！」**
 - 解决办法：**实战**项目、开源项目， **「 片段化不系统，机会抓不住」**
 - 可能方式：**[豪洞悉](http://geek.ai100.com.cn)、[艾科科](http://tinyletter.com/fly51fly/archive)、工种薅**、**英语**
+
+---
+
+### 关于「已完成项目／比赛」：
+
+Dell EMC比赛：https://github.com/alare/Hackathon_2017
+
+比赛硬件：树莓派， 虚拟机
+
+比赛需要但未完成：Docker相关
+
+比赛指南：[Introduction](https://github.com/alare/Hackathon_2017/blob/master/documentation/Mars-challenge-instructions.md)
+
+比赛得分：[PointsGet](https://github.com/alare/Hackathon_2017/blob/master/documentation/Mars-challenge-points-table.md)
+
+1.第一部分：传感器获取数据
+
+1.1.工作：后台运行多个传感器go文件并集成。并在浏览器查看传感器的传入数据。
+
+1.2.工具：后台运行go命令：`nohup go run flare.go &` 。端口如下：0.0.0.0:9000（localhost）。环境变量env
+
+1.3.参考：[Setting up the Raspberry Pi Sensors](https://github.com/alare/Hackathon_2017/blob/master/documentation/Raspberry-Go-Weather-Simulator-Setup.md)   以及  [SensorSuite](https://github.com/alare/Hackathon_2017/tree/master/sensorsuite) 
+
+2.第二部分：平台策略执行
+
+2.1工作：在浏览器显示出监控数据，需要运行docker
+
+2.2工具：[Game Controller](https://github.com/alare/Hackathon_2017/tree/master/game-controller) 以及[Dashboard](https://github.com/alare/Hackathon_2017/tree/master/dashboard) 以及 [Testing the Command and Control Center](https://github.com/alare/Hackathon_2017/blob/master/documentation/Mars-challenge-instructions.md#testing-the-command-and-control-center)
+
+3.第三部分：各个队伍PK
+
+3.1工作：更改策略，使得最后存活时间更长，注意更改url以进行队伍pk
+
+3.2工具：[Team_Strategy](https://github.com/alare/Hackathon_2017/tree/master/clients) 。[Testing the Command and Control Center](https://github.com/alare/Hackathon_2017/blob/master/documentation/Mars-challenge-instructions.md#testing-the-command-and-control-center)
+
+比赛过程：**「晚上10点的没有的微信」**— 那时候，很辛苦
+
+ ![going](YangQiDaily/going.jpg)
+
+比赛结果：「运气比较好，挑战了清华、北大」
+
+ ![Hackathon](YangQiDaily/Hackathon.jpg) 
+
+
+
+![FirstPrize](YangQiDaily/FirstPrize.jpg)
+
