@@ -118,9 +118,13 @@
 
 [python基础 - get！](http://www.runoob.com/python/python-tutorial.html) 字符串、列表、字典、元组、IO、异常、多线程、面向对象、正则、MySQL、JSON、100实例
 
+[Java基础 - get!](http://www.runoob.com/java/java-tutorial.html)    Java例子
+
 [Linux基础 - get!](http://www.runoob.com/linux/linux-tutorial.html) 登陆、用户、文件、Vim
 
 [Docker基础 - get!](http://www.runoob.com/docker/docker-tutorial.html)  容器引擎、虚拟化、打包镜像部署、沙盒、虚拟化
+
+[PHP基础 - get！](http://www.runoob.com/php/php-tutorial.html)mysql、XML、AJAX
 
 > 数据库：
 
@@ -128,21 +132,44 @@
 
 [mysql基础 - get!](http://www.runoob.com/mysql/mysql-tutorial.html) 匹配、索引、临时表、正则、去重、SQL注入
 
+[MongoDB - get!](http://www.runoob.com/mongodb/mongodb-tutorial.html)  分布式文件存储
+
+[Redis - get！](http://www.runoob.com/redis/redis-tutorial.html)  key-value存储系统
+
 > 开发工具：
 
 [git基础 - get!](http://www.runoob.com/git/git-tutorial.html)  分布式版本控制系统、克隆、修改、提交、工作区、版本库、分支、主线、合并、提交历史、标签、[github](http://www.runoob.com/w3cnote/git-guide.html)
+
+> XML教程：
+
+[XML基础 - get!](http://www.runoob.com/xml/xml-tutorial.html)  可扩展标记语言（e**X**tensible **M**arkup **L**anguage）、传输和存储数据
+
+> Web Service:
+
+[RSS基础 - get!](http://www.runoob.com/rss/rss-tutorial.html)    Really Simple Syndication（真正简易联合）
+
+[RDF基础 - get!](http://www.runoob.com/rdf/rdf-intro.html)   RDF 是一个用于描述 Web 上的资源的框架
 
 > 网站建设：
 
 [HTTP基础 - get!](http://www.runoob.com/http/http-tutorial.html)  HyperText Transfer Protocol、超文本传输协议、TCP/IP传输控制协议/因特网互联协议、客户端-服务端架构、C/S、通讯流程、消息结构、客户端请求消息、服务器响应消息、请求方法、HTTP状态码
 
-[网站建设指南 - get!](http://www.runoob.com/web/web-buildingprimer.html)   
+[TCP/IP基础 - get!](TCP/IP基础 - get!)   TCP/IP 是因特网的通信协议、-**TCP 使用固定的连接、**IP 是无连接的、**IP 路由器**、**TCP/IP**、**IP 地址包含 4 组数字、**32 比特 = 4 字节、**IPV6**、**域名**、**TCP/IP 是不同的通信协议的大集合**
+
+[网站主机基础 - get!](http://www.runoob.com/hosting/hosting-tutorial.html)  网站、web 服务器、ISP( Internet Service Provider ) Internet 服务提供商、每日的备份、流量限制、带宽或内容限制、域名是网站唯一的名称、主机解决方案中应包括域名注册、DNS 、月流量、POP 指的是邮局协议。、IMAP 指的是 Internet 消息访问协议。
+
+[网站建设指南 - get!](http://www.runoob.com/web/web-buildingprimer.html)  World Wide Web（WWW)、信息存储文件：网页、web服务器、客户端、浏览器、获取网页：从服务器请求网页数据、HTTP请求包含网页地址、显示指令HTML、Hyper Text Markup Language（HTML）标记语言、<p>段落、Cascading Style Sheets（CSS）层叠样式表、样式表定义如何显示HTML元素、JavaScript客户端脚本、向HTML添加交互行为、EXtensible Markup Language（XML）可扩展标记语言、传输信息、ASP（Active Server Pages 动态服务器页面） 和 PHP（Hypertext Preprocessor技术，允许在网页中插入服务器可执行脚本） 、服务端脚本、动态改变内容、对HTML表单数据响应、访问数据、SQL、Web 创建：少即是多、导航一致、加载速度、用户反馈、显示器、Web标准：HTML、CSS、XML、XSL、DOM、Web语义化、语义网技术：描述语言和推理逻辑、语义网实现：XML及RDF （Resource Description Framework资源描述框架）、信息资源及其之间关系的描述：RDF、使用URI来标识不同的对象（包括资源节点、属性类或属性值）、可将不同的URI连接起来，清楚表达对象间的关系、**AdSense**、**AJAX (Asynchronous JavaScript and XML)**、**Apache**开源的Web服务器、**API (Application Programming Interface)**、**Browser**、**Client**、**Client/Server**、**Clickthrough Rate**、**Cloud Computing**、**Cookie**、**DB2**、**DBA (Data Base Administrator)**、**DNS (Domain Name Service)**计算机程序运行在Web服务器上域名翻译成IP地址、**DOS (Disk Operating System)**、**HTTP Client**计算机程序，从Web服务器请求服务、**HTTP Server**计算机程序，从Web服务器提供服务、**IIS (Internet Information Server)**适用于Windows操作系统的Web服务器、**IMAP (Internet Message Access Protocol)**电子邮件服务器检索电子邮件标准通信协议、**IP (Internet Protocol)**、**IP Address (Internet Protocol Address)**每一台计算机的一个独特的识别号码（如197.123.22.240）、**JSP (Java Server Pages)**基于Java技术允许在网页中插入服务器可执行的脚本、**LAN (Local Area Network)**局部地区（如建筑物内）的计算机之间的网络、**OS (Operating System)**、**Page Views**、**PDF (Portable Document Format)**、**Ping**、**Search Engine**、**TCP (Transmission Control Protocol)**、**TCP/IP (Transmission Control Protocol / Internet Protocol)**两台计算机之间的互联网通信协议的集合。 TCP协议是两台计算机之间的自由连接，而IP协议负责通过网络发送的数据包。、**URI (Uniform Resource Identifier)**用来确定在互联网上的资源。 URL是一种类型的URI。、**URL (Uniform Resource Locator)**Web地址。标准的办法来解决互联网上的网页文件（页）（如：http://www.w3cschool.cc/）、**VPN (Virtual Private Network)**两个远程站点之间的专用网络，通过一个安全加密的虚拟互联网连接（隧道）、**Web Services**软件组件和Web服务器上运行的应用程序、搜索引擎优化（Search Engine Optimization）SEO、提高一个网站在搜索引擎中的排名（能见度）的过程、百度搜索网站登录口、
 
 
 
 --------
 
 ### 关于「Life」：
+
+- 别人一辈子都达不到的，才是价值的表彰
+
+  > 翟墨，朗读 - 高尔基的《海燕》
+
 
 - **结果**=**80%**(100%**想法**+100%**实施**)  
 
