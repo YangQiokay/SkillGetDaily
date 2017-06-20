@@ -2,7 +2,7 @@
 
 ​    
 
- ##                      **「系统Qi」** 
+ ##                      **「礼貌的笑了笑，寸步不让」** 
 
 -----
 
@@ -10,15 +10,28 @@
 
 ### 关于「专业书」：
 
-### 关于「新技能」：
+### 关于「正在进行新技能」：
 
-数据获取：爬虫
+**Web项目:**
 
-数据预处理：自然语言处理
+- Python 爬虫：参考：[Scrapy](http://wiki.jikexueyuan.com/project/scrapy/)、
 
-数据挖掘：建模
 
-大数据：Spark、Scala
+- Java Web：参考：[Java Web](http://wiki.jikexueyuan.com/project/java-web/)、
+- PHP+MySQL搭建网页：参考：[PHP+MySQL](http://wiki.jikexueyuan.com/project/php-and-mysql-web/) 、
+
+**数据挖掘／自然语言处理项目：**
+
+- 建模
+
+**算法基础：**
+
+- 数据结构：参考：[剑指Offer](http://wiki.jikexueyuan.com/project/for-offer/) 、[LeetCode](http://wiki.jikexueyuan.com/project/leetcode-book/)
+- 算法：参考：
+
+**大数据项目：**
+
+- Spark、Scala
 
 ### 关于「论文」：1%
 
@@ -126,6 +139,18 @@
 
 [PHP基础 - get！](http://www.runoob.com/php/php-tutorial.html)mysql、XML、AJAX
 
+[正则表达式基础 - get!](http://www.runoob.com/regexp/regexp-tutorial.html)  
+
+[JSP基础 - get!](http://www.runoob.com/jsp/jsp-tutorial.html)  
+
+[Scala基础 - get!](http://www.runoob.com/scala/scala-tutorial.html)  
+
+[设计模式基础 - get!](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
+
+[Django基础 - get!](http://www.runoob.com/django/django-tutorial.html)  
+
+[Servlet基础 - get!](http://www.runoob.com/servlet/servlet-tutorial.html)  
+
 > 数据库：
 
 [sql基础 - get!](http://www.runoob.com/sql/sql-tutorial.html) 查询、筛选、插入、更新、连接、合并、约束、删除、更改、函数
@@ -150,6 +175,24 @@
 
 [RDF基础 - get!](http://www.runoob.com/rdf/rdf-intro.html)   RDF 是一个用于描述 Web 上的资源的框架
 
+> HTML / CSS / JavaScript
+
+[HTML基础 - get!](http://www.runoob.com/html/html-tutorial.html)
+
+[CSS基础 - get!](http://www.runoob.com/css3/css3-tutorial.html)
+
+[Boostrap基础 - get!](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)
+
+[JavaScript基础 - get!](http://www.runoob.com/js/js-tutorial.html)  
+
+[jQuery基础 - get!](http://www.runoob.com/jquery/jquery-tutorial.html)
+
+[AJAX基础 - get!](http://www.runoob.com/ajax/ajax-tutorial.html)  
+
+[JSON基础 - get!](http://www.runoob.com/json/json-tutorial.html) 
+
+[Highcharts基础 - get!](http://www.runoob.com/highcharts/highcharts-tutorial.html)  
+
 > 网站建设：
 
 [HTTP基础 - get!](http://www.runoob.com/http/http-tutorial.html)  HyperText Transfer Protocol、超文本传输协议、TCP/IP传输控制协议/因特网互联协议、客户端-服务端架构、C/S、通讯流程、消息结构、客户端请求消息、服务器响应消息、请求方法、HTTP状态码
@@ -165,6 +208,11 @@
 --------
 
 ### 关于「Life」：
+
+- 礼貌的笑了笑，寸步不让
+
+  > 老板，枉为人师！
+
 
 - 别人一辈子都达不到的，才是价值的表彰
 
