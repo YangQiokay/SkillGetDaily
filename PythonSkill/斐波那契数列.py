@@ -28,7 +28,7 @@
 # print fib(10)
 
 
-# 方法二
+# 方法二: 递归
 
 def fib(n):
     if n == 1 or n == 2:
