@@ -20,5 +20,11 @@ while input != 1:
         if input % i == 0:
             temp.append(i)
             input = input / i
+            print i
             break
 print temp
+for i in range(len(temp)):
+    if i == len(temp) - 1:
+        print temp[i]
+    else:
+        print str(temp[i]) + "*",
