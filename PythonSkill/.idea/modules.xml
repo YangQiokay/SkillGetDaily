@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../原系统资料/PycharmProjects/chapters/1.1Linear/.idea/1.1Linear.iml" filepath="$PROJECT_DIR$/../../原系统资料/PycharmProjects/chapters/1.1Linear/.idea/1.1Linear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../原系统资料/PycharmProjects/chapters/2.4Ensemble/.idea/2.4Ensemble.iml" filepath="$PROJECT_DIR$/../../原系统资料/PycharmProjects/chapters/2.4Ensemble/.idea/2.4Ensemble.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonSkill.iml" filepath="$PROJECT_DIR$/.idea/PythonSkill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../原系统资料/PycharmProjects/chapters/.idea/chapters.iml" filepath="$PROJECT_DIR$/../../原系统资料/PycharmProjects/chapters/.idea/chapters.iml" />
     </modules>
   </component>
 </project>
