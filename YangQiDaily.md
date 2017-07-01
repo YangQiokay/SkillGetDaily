@@ -1,6 +1,6 @@
 注：为个人学习总结需要，如有侵权，请您指出。[持续更新， 如有错误，请您指出]        
 
-> 邮箱：yangqiokay@foxmai.com      微信号：<u>*18810578662*</u>
+> 邮箱：*<u>yangqiokay@foxmai.com</u>*      微信号：<u>*18810578662*</u>
 
 ​    
 
@@ -8,7 +8,9 @@
 
 -----
 
-[TOC]
+### 关于「技能」：
+
+感知机
 
 关于「学术论文／研究项目／工程项目／创业项目」：
 
@@ -309,12 +311,67 @@
     - 如学习速率，mini-batch的大小等等。
   - 交叉熵意味着什么，从哪里来
     -   交叉熵的直观意义是什
-    - 在信息论领域是有一种标准方式来解释交叉熵的。大致说来，想法就是：交叉熵是对惊讶的测度
+    -   在信息论领域是有一种标准方式来解释交叉熵的。大致说来，想法就是：交叉熵是对惊讶的测度
   - Sotfmax
     - 主要使用交叉熵代价函数来解决学习速度衰退的问题。不过，我想首先简要的介绍一下解决这个问题的另一种方法，这种方法是基于神经元中所谓的 *softmax* 层
     - 面因为 softmax 在本质上很有趣，另一方面因为我们将要在第六章使用 softmax 层，那时候我们要讨论深度神经网络。
     - softmax 的主要思想是为我们的神经网络定义一种新的输出层。跟之前的 sigmoid 层一样，它也是对加权输入
     - 不一样的地方是，在获取输出结果的时候我们并不使用 sigmoid 函数。取而代之，在 softmax 层中我们使用 *softmax 函数 *应用到![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqia4XmnQMJGo1QDw4T2Oib0rdCDkib4j0hyAMkpPbeJicicenJmL1fIzYW2O3RYsL4A1RCrk38Xs9YWnQ/0?wx_fmt=png)。根据这个函数，第![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqia4XmnQMJGo1QDw4T2Oib0rC6yqxAMwymiaLIfIL4G8ibbMHSGRKGmQ3KibdfTeasyaeyQ2bFvsaHekQ/0?wx_fmt=png)个输出神经元的激活值![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqia4XmnQMJGo1QDw4T2Oib0rNCae9QOl48g3UgKDx3fia51vzCW5PyJNyQdMMwTzJRtLu6EYF4I8KcQ/0?wx_fmt=png)是
+    - 那么公式（78）可能看上去很难理解。同时也不太能理解为什么我们想要用这个函数以及这个函数如何帮助我们解决学习速度衰退的问题。为了更好的理解公式（
+    - 从 softmax 层得到的输出可以看做是一个概率分布。
+    - 我们就可以在包含 softmax 输出层和 log-likelihood 代价函数的网络中应用反向传播算法了
+  - 过拟合和正则化
+    - 诺贝尔物理学奖获得者恩里科·费米（Enrico Fermi）曾经被问及如何看待某个数学模型被一些物理学家应用到一个悬而未决的重要物理问题上。虽然模型与实验结果契合的很好，但费米还是对此有所怀疑。他问道「在这个模型中有多少个可以自由设置的参数」，他得到的答案是「4 个」。费米回复说1「我的朋友约翰尼·冯诺依曼（Johnny von Neumann）常说，他用四个参数可以模拟一头大象，用五个可以使它摇动鼻子。」
+    - 费米的这个观点是在表明：有大量自由参数的模型能够描述一个足够宽泛的现象。即使这样的模型与现有的数据吻合得很好，这也不能说它是一个好的模型。这仅仅只能说明，有足够自由度的模型基本上可以描述任何给定大小的数据集，但是它并没有真正地洞察到现象背后的本质。这就会导致该模型在现有的数据上表现得很好，但是却不能普及到新的情况上。判断一个模型真正好坏的方法，是看其对未知情况的预测能力。
+    - 费米和冯诺伊曼对持有四个参数的模型都抱有怀疑的态度。然而我们分类 MNIST 数字所用的30个隐藏神经元网络就有将近24000个特征！这个数量非常庞大。100个隐藏神经元网络有接近80000个特征，最先进的深度神经网络或许包含数百万，甚至数亿计的特征。我们应该相信这些结果吗
+    - 我们会制造出一种情况，使我们的网络不能够很好地适应新数据。假设我们使用有30个隐藏神经元网络，其中含有23860个参数。但是不用全部的50000个 MINST 图像做训练，而仅仅使用前1000个。用较小的训练集能够使突出泛化的问题。此外，我们依然用交叉熵代价函数来训练模型，学习率为eta = 0.5，mini-batch 的大小选为10。然而，与之前不同的是，我们将要迭代400次，由于使用了较少的训练实例，所以就要较多的训练次数。让我们用 network2看一下代价函数的变化趋势：
+    - 在我们的神经网络中，把280步视为模型开始过拟合的转折点。
+    - 正如我们期望的那样，代价在平滑地下降。请注意，图中仅仅展示了第200次迭代到第399次迭代的阶段
+    - 我选取了图表的一部分。在前200步（未显示）准确率上升到接近百分之82。然后学习的效果就逐渐放缓。最后，在280步附近，分类准确率几乎停止改善
+    - 仅仅在280步就达到的准确率附近有一些小的随机波动。与上一个图表对比，我们会发现，训练数据的代价函数值是持续下降的。如果我们只关注代价函数，模型似乎一直在“改进”
+    - 在280步之后，我们网络的学习不能够再很好地推广到测试数据上。所以此时的学习是无用的。在280步之后，我们称此时的网络是*过拟合（overfitting）*或*过训练（overtraining）*的。
+    - 测试数据的代价在15步前一直在降低，之后它开始变大，然而训练数据的代价是在持续降低的。这是另外一个能够表明我们的模型是过拟合的迹象。而此时，我们遇到了一个难题，到底哪一个才是发生过拟合的关键点，15步还是280步？从实际应用的角度来看，我们真正关心的是提高测试数据的分类精度，而测试数据的代价只不过是分类精度的附属品。因此，在我们的神经网络中，把280步视为模型开始过拟合的转折点。
+    - 上升到百分之100。也就是说，网络能正确分类所有1000个训练图像！而与此同时，测试准确率仅为百分之82.27。所以我们的网络只是在学习训练集的特性，而不能完全识别普通的数字。就好像网络仅仅是在记忆训练集，而没有真正理解了数字能够推广到测试集上。
+    - 过拟合是神经网络中一个主要的问题。尤其是在含有大量权重和偏差参数的现代网络中。为了更有效地训练，我们需要一种能够检测过拟合发生时间的方法，这样就不会发生过度训练。此外，我们也需要一种能减少过拟合影响的技术
+    - 如果测试数据的精度不再提高，就应该停止训练。当然，严格地说，这也不一定就是过拟合的迹象，也许需要同时检测到测试数据和训练数据的精度都不再提高时才行。当然，这个策略是能够避免过拟合的。
+    - 将使用 `validation_data` 而不是 `test_data` 来预防过拟合。为了做到这一点，将使用与上面 `test_data` 相同的方法。也就是说，在每一步训练之后，计算 `validation_data` 的分类精度。一旦 `validation_data` 的分类精度达到饱和，就停止训练。这种策略叫做*提前终止*
+    - 相比使用1000张训练实例，使用50000张训练实例的情况下，测试数据和训练数据的准确率更加接近。特别地，训练数据上最高的分类精度百分之97.86仅仅比测试数据的百分之95.33高出1.53个百分点。而之前有百分之17.73的差距！虽然过拟合仍然存在，但已经大大降低了。我们的网络能从训练数据更好地泛化到测试数据。一般来说，增加训练数据的数量是降低过拟合的最好方法之一。如果拥有足够的训练数据，要让一个非常庞大的网络过拟合也是比较困难的。不幸的是，训练数据的获取成本太高，因此这通常是一个不现实的选择
+  - 正则化
+    - 避免过拟合的方法之一是增加训练数据数量。那么，还有没有别的方法能让我们避免过拟合呢？一种可能的方法是减小网络的规模。然而，我们并不情愿减小规模，因为大型网络比小型网络有更大的潜力。
+    - 哪怕使用固定的网络和固定的训练数据，我们还有别的方法来避免过拟合。这就是所谓的*正则化（regularization）*技术。在这一节我将描述一种最常用的正则化技术——*权重衰减（weight decay）*或叫* L2 正则（L2 regularization）*
+    - L2 正则的思想是，在代价函数中加入一个额外的正则化项。这是正则化之后的交叉熵
+    - 第一项是常规的交叉熵表达式。但我们加入了第二项，也就是网络中所有权值的平方和。它由参数 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1E3ehTJhfuibWbfakTzNicvROdm3K01IWAYY8nVWPiasibLElrRAkjbhObA/0?wx_fmt=png) 进行调整，其中 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1RhShRN8cdVruB6hKNjgicdg7Z1UY3dHESsOF4rmZvd5Ck56e5oDf18w/0?wx_fmt=png) 被称为*正则化参数（regularization parameter）*，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1RueIKs5mtMSBibEVQXNQOgKpOPTrpteXq2OP1NWhZ5NxKnFvvEYcjcA/0?wx_fmt=png) 是我们训练集的大小。我稍后会讨论应该如何选择 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HlIc5xpP4sQCF5BLaf9LjeEpNvhIEoykWjDc8fajv5NlDDSWMQy7Yg/0?wx_fmt=png)。另外请注意正则化项*不*包括偏移
+    - 我们也可以对其它的代价函数进行正则化，例如平方代价。正则化的方法与上面类似：
+    - 在两种情况中，我们都能把正则化的代价函数写成：
+    - 直观来说，正则化的作用是让网络偏好学习更小的权值，而在其它的方面保持不变。选择较大的权值只有一种情况，那就是它们能显著地改进代价函数的第一部分。换句话说，正则化可以视作一种能够折中考虑小权值和最小化原来代价函数的方法。两个要素的相对重要性由 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HlIc5xpP4sQCF5BLaf9LjeEpNvhIEoykWjDc8fajv5NlDDSWMQy7Yg/0?wx_fmt=png) 的值决定：当 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HlIc5xpP4sQCF5BLaf9LjeEpNvhIEoykWjDc8fajv5NlDDSWMQy7Yg/0?wx_fmt=png) 较小时，我们偏好最小化原本的代价函数，而 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HlIc5xpP4sQCF5BLaf9LjeEpNvhIEoykWjDc8fajv5NlDDSWMQy7Yg/0?wx_fmt=png) 较大时我们偏好更小的权值。
+    - 它的确能够减少过拟合。我们将在下一部分阐述为何这样的折中能够减少过拟合。先让我们通过一个例子展示正则化确实能够减小过拟合
+    - 为了构建这样一个例子，我们首先要解决如何把随机梯度下降学习算法应用于正则化的神经网络中。
+    - 我们尤其需要知道如何对网络中所有的权值和偏移计算偏导数
+    - 可由反向传播计算。于是我们发现计算正则化代价函数的梯度相当简单：只要照常使用反向传播
+    - 这种调整有时也被称作*权重衰减*
+    - 因为它减小了权重。一眼看去权值将被不停地减小直到为 0。
+    - 但实际上并不是这样的，因为如果可以减小未正则化的成本函数的话，式中的另外一项可能会让权值增加
+    - 这就是梯度下降实现的方法。那么随机梯度下降呢？和未正则化的随机梯度下降一样，我们首先在包含 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1iaKTANTibyVY4B5rhHscAZn6A2tgJoCYDDJrcOwgah1sDqGXR0Sq8JEQ/0?wx_fmt=png) 个训练样例的 mini-batch 数据中进行平均以估计 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1mfZL8vTGbiaOjf3y4h7dotCXcXtn7NJFvABj3pPfVeatuPCj7sUqJHg/0?wx_fmt=png) 的值。因此对于随机梯度下降法而言正则化的学习方法就变成了
+    - 其中的求和是对 mini-batch 中的所有训练样例进行的，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1TTveBIGPJvBgPjL4LCgdGw3s7IYVxLdyH1E6Pw9T2VqptubLWewq8Q/0?wx_fmt=png) 是每个样例对应的未正则化的代价。这与通常的随机梯度下降方法一致，除了权重衰减变量 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1FSS1zF1uUeic52EF1NuSDu1TibY9Hxyy0ETz6ibfJiaaHO9EKUacBkmAyQ/0?wx_fmt=png)。最后，为了表述完整，我要说明对于偏移的正则化学习规则
+    - 让我们看看正则化如何改变了我们的神经网络的表现。我们将使用一个神经网络来进行验证，其包含 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1xcYcSxJNCKG8gzDvKe4CjaJqkQeQzlyj6sEVIACae97woQfz9NncHw/0?wx_fmt=png) 个隐藏神经元，mini-batch 大小为 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HflW1frMK624kq7NueHgKJoNy1HO2d8elR7v5YXkCOzBLrfbdAYGpw/0?wx_fmt=png)，学习率为 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1R2OWpibNZYnE06tgBAcRSr7wCV0FzHm02rODU9M8UQ5Mg2o2m1tWz3A/0?wx_fmt=png)，并以交叉熵作为代价函数。然而，这次我们设置正则化参数 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1zRW1GEBGfWicHKQGDX2GeicQqiaNIWiaLM9FT2XRS2g6S6qrOgLLKI0o2A/0?wx_fmt=png)。注意在代码中，我们使用变量名 `lmbda`，因为 `lambda` 是 Python 的保留字，其含义与此无关。我也再次使用了 `test_data` 而非 `validation_data`。严格来说，我们应该使用 `validation_data`，详细原因我们在此前已经解释过。不过我决定用 `test_data` 因为它能让结果与我们此
+    - 应用正则化抑制了过拟合。同时，准确率也显著提升了：分类准确率峰值为
+    - 实际上，我们几乎确定，继续进行迭代可以得到更好的结果。从经验来看，正则化让我们的网络生成得更好，并有效地减弱了过拟合效应。
+    - 第二，我们能看到训练数据的结果与测试数据的之间的间隙相比之前
+    - 最后，让我们看看当我们使用 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1w3hVibvRxfpLj4WyOwKYiaILRftFSMjKccfx8tVslSft1mw716ojb9Lg/0?wx_fmt=png) 个隐藏神经元并设置 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1gzqg0Cp0kOZu7Zcv6VY0gmich51I3rIVh0NT314hqA0MGib14vnqicREQ/0?wx_fmt=png) 时测试分类准确率。我将不会对这里的过拟合进行详细的分析，这只是纯粹为了有趣，只为了看看我们使用新的技巧
+    - 如果代价函数没有正则化，那么权重向量的长度倾向于增长，而其它的都不变。随着时间推移，权重向量将会变得非常大。这可能导致权重向量被限制得或多或少指向同一个方向，因为当长度过长时，梯度下降只能带来很小的变化。我相信这一现象令我们的学习算法难于恰当地探索权重空间，因而难以给代价函数找到一个好的极小值。
+  - 为什么正则化能降低过拟合
+    - 实验发现正则化能帮助减少过拟合。这是令人高兴的事，然而不幸的是，我们没有明显的证据证明为什么正则化可以起到这个效果！一个大家经常说起的解释是：在某种程度上，越小的权重复杂度越低，因此能够更简单且更有效地描绘数据，所以我们倾向于选择这样的权重
+    - 能预测 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqLVhYG5QyYGKsJiaYtc5XR4ogRG4tSReK27iaPMJ24jMnqlM8j6A9MHxDbbmItJPgf3L99UstFGy1g/0?wx_fmt=png) 的函数。我们可以尝试使用神经网络来构建模型，但是我将使用更简单的方法：我将把 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqLVhYG5QyYGKsJiaYtc5XR4ogRG4tSReK27iaPMJ24jMnqlM8j6A9MHxDbbmItJPgf3L99UstFGy1g/0?wx_fmt=png) 建模为关于 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqLVhYG5QyYGKsJiaYtc5XR4HUSbILulseHiaKicdhIHUjmcQV8txbtxgibxMkl6ibBbjm9SP4QWTzoeDw/0?wx_fmt=png) 的多项式。我们将使用这种方法来代替神经网络，因为多项式模型十分透明。一旦我们理解了多项式的情况，我们就可以把它迁移到神经网络上。
+    - 小权重意味着网络的行为不会因为我们随意更改了一些输入而改变太多。这使得它不容易学习到数据中局部噪声。可以把它想象成一种能使孤立的数据不会过多影响网络输出的方法，相反地，一个正则化的网络会学习去响应一些经常出现在整个训练集中的实例
+    - 与之相对的是，如果输入有一些小的变化，一个拥有大权重的网络会大幅改变其行为来响应变化。因此一个未正则化的网络可以利用大权重来学习得到训练集中包含了大量噪声信息的复杂模型
+    - 正则化网络能够限制在对训练数据中常见数据构建出相对简单的模型，并且对训练数据中的各种各样的噪声有较好的抵抗能力。所以我们希望它能使我们的网络真正学习到问题中的现象的本质，并且能更好的进行泛化
+    - 由于这些原因，我们通常不对偏置做正则化。
+  - 其他正则化技术
+    - 除了 L2 外还有很多规范化技术。实际上，正是由于数量众多，我这里也不会将所有的都列举出来。在本节，我简要地给出三种减轻过度拟合的其他的方法：L1 规范化、弃权(Dropout)和人为增加训练样本。
+    - 我们不会像上面介绍得那么深入。其实，目的只是想让读者熟悉这些主要的思想，然后来体会一下规范化技术的多样性。
+    - L1 规范化 这个方法是在未规范化的代价函数上加上一个权重绝对值的和：
+    - 凭直觉地看，这和 L2 规范化相似，惩罚大的权重，倾向于让网络优先选择小的权重。当然，L1 规范化和 L2 规范化并不相同，所以我们不应该期望从 L1 规范化得到完全同样的行为。让我们来试着理解使用 L1 规范化训练的网络和 L2 规范化训练的网络所不同的行为。
+    - 我们可以轻易地对反向传播进行修改从而使用基于 L1 规范化的随机梯度下降进行学习。
     - ​
 
 
