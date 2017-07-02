@@ -10,7 +10,7 @@
 
 ### 关于「技能」：
 
-[感知机](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/感知机.jpeg)
+
 
 关于「学术论文／研究项目／工程项目／创业项目」：
 
