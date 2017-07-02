@@ -26,6 +26,22 @@
 
 [8基于矩阵的NN输出&反向传播损失函数](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/8%E5%9F%BA%E4%BA%8E%E7%9F%A9%E9%98%B5%E7%9A%84NN%E8%BE%93%E5%87%BA%26%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.jpeg)、
 
+[9反向传播4基本等式](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/9%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD4%E5%9F%BA%E6%9C%AC%E7%AD%89%E5%BC%8F.jpeg)
+
+[10反向传播算法&SGD&优点](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/10%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95%26SGD%26%E4%BC%98%E7%82%B9.jpeg)
+
+[11反向传播整理描述](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/11%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%95%B4%E7%90%86%E6%8F%8F%E8%BF%B0.jpeg)
+
+[12改进学习&交叉熵损失函数](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/12%E6%94%B9%E8%BF%9B%E5%AD%A6%E4%B9%A0%26%E4%BA%A4%E5%8F%89%E7%86%B5%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.jpeg)
+
+[13交叉熵解决手写数字识别问题](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/13%E4%BA%A4%E5%8F%89%E7%86%B5%E8%A7%A3%E5%86%B3%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E9%97%AE%E9%A2%98.jpeg)
+
+[14Softmax&学习衰减&loglikelihood](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/14Softmax%26%E5%AD%A6%E4%B9%A0%E8%A1%B0%E5%87%8F%26loglikelihood.jpeg)
+
+[15过拟合&Valid_data增加训练集](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/15%E8%BF%87%E6%8B%9F%E5%90%88%26Valid_data%E5%A2%9E%E5%8A%A0%E8%AE%AD%E7%BB%83%E9%9B%86.jpeg)
+
+
+
 
 
 关于「学术论文／研究项目／工程项目／创业项目」：
