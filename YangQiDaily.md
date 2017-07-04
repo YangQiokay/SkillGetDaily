@@ -10,69 +10,9 @@
 
 ### 关于「技能」：
 
-##### **[1.《神经网络与深度学习》连载翻译](http://chuansong.me/n/1895437651113)**
+##### **[1.《神经网络与深度学习》连载翻译原文](http://chuansong.me/n/1895437651113)**
 
-[1感知机](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/1%E6%84%9F%E7%9F%A5%E6%9C%BA.jpeg)、
-
-[2Sigmoid神经元与学习算法与感知机比较](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/2Sigmoid%E7%A5%9E%E7%BB%8F%E5%85%83%E4%B8%8E%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E4%B8%8E%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%AF%94%E8%BE%83.jpeg)、
-
-[3神经网络结构及简单网络结构解决手写识别](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/3%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E8%A7%A3%E5%86%B3%E6%89%8B%E5%86%99%E8%AF%86%E5%88%AB.jpeg)、
-
-[4梯度下降学习参数1](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/4%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E5%AD%A6%E4%B9%A0%E5%8F%82%E6%95%B01.jpeg)、
-
-[5梯度下降2&SGD&OnlineLearning](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/5%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D2%26SGD%26OnlineLearning.jpeg)、
-
-[6实现网络来分类数字](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/6%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%BB%9C%E6%9D%A5%E5%88%86%E7%B1%BB%E6%95%B0%E5%AD%97.pdf)、
-
-[7迈向深度学习](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/7%E8%BF%88%E5%90%91%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.jpeg)、
-
-[8基于矩阵的NN输出&反向传播损失函数](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/8%E5%9F%BA%E4%BA%8E%E7%9F%A9%E9%98%B5%E7%9A%84NN%E8%BE%93%E5%87%BA%26%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.jpeg)、
-
-[9反向传播4基本等式](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/9%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD4%E5%9F%BA%E6%9C%AC%E7%AD%89%E5%BC%8F.jpeg)
-
-[10反向传播算法&SGD&优点](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/10%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95%26SGD%26%E4%BC%98%E7%82%B9.jpeg)
-
-[11反向传播整理描述](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/11%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%95%B4%E7%90%86%E6%8F%8F%E8%BF%B0.jpeg)
-
-[12改进学习&交叉熵损失函数](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/12%E6%94%B9%E8%BF%9B%E5%AD%A6%E4%B9%A0%26%E4%BA%A4%E5%8F%89%E7%86%B5%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.jpeg)
-
-[13交叉熵解决手写数字识别问题](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/13%E4%BA%A4%E5%8F%89%E7%86%B5%E8%A7%A3%E5%86%B3%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E9%97%AE%E9%A2%98.jpeg)
-
-[14Softmax&学习衰减&loglikelihood](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/14Softmax%26%E5%AD%A6%E4%B9%A0%E8%A1%B0%E5%87%8F%26loglikelihood.jpeg)
-
-[15过拟合&Valid_data增加训练集](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/15%E8%BF%87%E6%8B%9F%E5%90%88%26Valid_data%E5%A2%9E%E5%8A%A0%E8%AE%AD%E7%BB%83%E9%9B%86.jpeg)
-
-[16正则化&权重衰减](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/16%E6%AD%A3%E5%88%99%E5%8C%96%26%E6%9D%83%E9%87%8D%E8%A1%B0%E5%87%8F.jpeg)
-
-[17正则化&L1规范化](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/17%E6%AD%A3%E5%88%99%E5%8C%96%26L1%E8%A7%84%E8%8C%83%E5%8C%96.jpeg)
-
-[18正则化&弃权](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/18%E6%AD%A3%E5%88%99%E5%8C%96%26%E5%BC%83%E6%9D%83.jpeg)
-
-[19正则化&人为扩展](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/19%E6%AD%A3%E5%88%99%E5%8C%96%26%E4%BA%BA%E4%B8%BA%E6%89%A9%E5%B1%95.jpeg)
-
-[20权重初始化&学习加速](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/20%E6%9D%83%E9%87%8D%E5%88%9D%E5%A7%8B%E5%8C%96%26%E5%AD%A6%E4%B9%A0%E5%8A%A0%E9%80%9F.jpeg)
-
-[21超参数&学习速率&提前停止](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/21%E8%B6%85%E5%8F%82%E6%95%B0%26%E5%AD%A6%E4%B9%A0%E9%80%9F%E7%8E%87%26%E6%8F%90%E5%89%8D%E5%81%9C%E6%AD%A2.jpeg)
-
-[22规范化(正则)&自动技术](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/22%E8%A7%84%E8%8C%83%E5%8C%96(%E6%AD%A3%E5%88%99)%26%E8%87%AA%E5%8A%A8%E6%8A%80%E6%9C%AF.jpeg)
-
-[23随机梯度下降变化&Hessian技术](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/23%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E5%8F%98%E5%8C%96%26Hessian%E6%8A%80%E6%9C%AF.jpeg)
-
-[24神经网络计算任何函数](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/24%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AE%A1%E7%AE%97%E4%BB%BB%E4%BD%95%E5%87%BD%E6%95%B0.jpeg)
-
-[25梯度消失问题](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/25%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1%E9%97%AE%E9%A2%98.jpeg)
-
-[26卷积神经网络&共享权值偏重](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/26%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%26%E5%85%B1%E4%BA%AB%E6%9D%83%E5%80%BC%E5%81%8F%E9%87%8D%26.jpeg)
-
-[27混合层&完整卷积神经网络](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/27%E6%B7%B7%E5%90%88%E5%B1%82%26%E5%AE%8C%E6%95%B4%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.jpeg)
-
-[28卷积实际应用&训练.](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/28%E5%8D%B7%E7%A7%AF%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%26%E8%AE%AD%E7%BB%83.jpeg)
-
-[29RNN&LSTM&深度信念网络](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/29RNN%26LSTM%26%E6%B7%B1%E5%BA%A6%E4%BF%A1%E5%BF%B5%E7%BD%91%E7%BB%9C.jpeg)
-
-
-
-
+- 个人笔记：参见：
 
 
 
