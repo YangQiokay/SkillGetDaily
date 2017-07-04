@@ -10,6 +10,8 @@
 
 ### 关于「技能」：
 
+##### **[1.《神经网络与深度学习》连载翻译](http://chuansong.me/n/1895437651113)**
+
 [1感知机](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/1%E6%84%9F%E7%9F%A5%E6%9C%BA.jpeg)、
 
 [2Sigmoid神经元与学习算法与感知机比较](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/2Sigmoid%E7%A5%9E%E7%BB%8F%E5%85%83%E4%B8%8E%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E4%B8%8E%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%AF%94%E8%BE%83.jpeg)、
@@ -40,6 +42,36 @@
 
 [15过拟合&Valid_data增加训练集](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/15%E8%BF%87%E6%8B%9F%E5%90%88%26Valid_data%E5%A2%9E%E5%8A%A0%E8%AE%AD%E7%BB%83%E9%9B%86.jpeg)
 
+[16正则化&权重衰减](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/16%E6%AD%A3%E5%88%99%E5%8C%96%26%E6%9D%83%E9%87%8D%E8%A1%B0%E5%87%8F.jpeg)
+
+[17正则化&L1规范化](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/17%E6%AD%A3%E5%88%99%E5%8C%96%26L1%E8%A7%84%E8%8C%83%E5%8C%96.jpeg)
+
+[18正则化&弃权](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/18%E6%AD%A3%E5%88%99%E5%8C%96%26%E5%BC%83%E6%9D%83.jpeg)
+
+[19正则化&人为扩展](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/19%E6%AD%A3%E5%88%99%E5%8C%96%26%E4%BA%BA%E4%B8%BA%E6%89%A9%E5%B1%95.jpeg)
+
+[20权重初始化&学习加速](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/20%E6%9D%83%E9%87%8D%E5%88%9D%E5%A7%8B%E5%8C%96%26%E5%AD%A6%E4%B9%A0%E5%8A%A0%E9%80%9F.jpeg)
+
+[21超参数&学习速率&提前停止](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/21%E8%B6%85%E5%8F%82%E6%95%B0%26%E5%AD%A6%E4%B9%A0%E9%80%9F%E7%8E%87%26%E6%8F%90%E5%89%8D%E5%81%9C%E6%AD%A2.jpeg)
+
+[22规范化(正则)&自动技术](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/22%E8%A7%84%E8%8C%83%E5%8C%96(%E6%AD%A3%E5%88%99)%26%E8%87%AA%E5%8A%A8%E6%8A%80%E6%9C%AF.jpeg)
+
+[23随机梯度下降变化&Hessian技术](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/23%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E5%8F%98%E5%8C%96%26Hessian%E6%8A%80%E6%9C%AF.jpeg)
+
+[24神经网络计算任何函数](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/24%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AE%A1%E7%AE%97%E4%BB%BB%E4%BD%95%E5%87%BD%E6%95%B0.jpeg)
+
+[25梯度消失问题](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/25%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1%E9%97%AE%E9%A2%98.jpeg)
+
+[26卷积神经网络&共享权值偏重](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/26%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%26%E5%85%B1%E4%BA%AB%E6%9D%83%E5%80%BC%E5%81%8F%E9%87%8D%26.jpeg)
+
+[27混合层&完整卷积神经网络](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/27%E6%B7%B7%E5%90%88%E5%B1%82%26%E5%AE%8C%E6%95%B4%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.jpeg)
+
+[28卷积实际应用&训练.](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/28%E5%8D%B7%E7%A7%AF%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%26%E8%AE%AD%E7%BB%83.jpeg)
+
+[29RNN&LSTM&深度信念网络](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/29RNN%26LSTM%26%E6%B7%B1%E5%BA%A6%E4%BF%A1%E5%BF%B5%E7%BD%91%E7%BB%9C.jpeg)
+
+
+
 
 
 
@@ -48,384 +80,7 @@
 
 ### 关于「专业书」：
 
-##### **[《神经网络与深度学习》连载翻译](http://chuansong.me/n/1895437651113)**
-
-- **1.使用神经网络识别手写数字**
-  - ​
-    - 神经网络（Neural Networks）使用一种不同的思路解决这个问题。它的思想是利用大量的手写数字，亦被称为训练样例
-    - 从这些训练样例学习并建立一个系统。换一种说法，神经网络使用这些样例，从中能够自动地学习到识别手写数字的规则。而且，随着训练样例的增加，神经网络可以从中学习到更多信息，从而提高它的准确度。
-    - 实现一个神经网络的计算机程序，来学习并识别手写数字。虽然这个程序仅仅只有74行，并且没有使用任何特别的神经网络库，但是它可以在没有任何人工干预的情况下，达到超过百分之96的手写数字识别准确率。
-    - **两种重要的人工神经元**（感知机和sigmoid神经元），以及**神经网络的标准学习算法，称为随机梯度下降**（stochastic gradient descent）
-  - 感知机
-    - 什么是神经网络？在回答这个问题之前，我会先解释一种叫做**感知机（perceptron**）的人工神经元
-    - 现如今，我们通常使用其它种类的人工神经元模型——在这本书里，以及在许多关于神经网络的最新工作里，主要使用的是一种叫做**sigmoid神经元（sigmoid neuron）**的神经元模型。
-    - 感知机是怎么工作的呢？感知机的输入是几个二进制，x1,x2,x3,…，输出是一位单独的二进制
-    - 本例中的感知机有三个输入，x1,x2,x3。通常，它可以有更多或者更少的输入。Rosenblatt提出了一种计算输出的简单的规则。他引入了**权重（weight****）**，w1,w2,…，等实数来表示各个输入对于输出的重要程度。神经元的输出是0还是1，由加权和∑j*wjxj*是否小于或者大于某一个**阈值（threshold value）**。和权重一样，阈值也是一个实数，同时它是神经元的一个参数
-    - 这就是感知机的工作方式！
-    - 可以这样理解感知机，它是一个通过给evidence赋予不同权重从而作出决策的机器。
-    - 显然，感知机不能完全建模人类的决策系统！不过，这个例子阐明的是感知机如何赋予不同evidence权重来达到做出决策的目的。一个由感知机构成的复杂网络能够做出更加精细的决策，这貌似看上去是说得通的：
-    - 在这个网络中，第一列感知机——通常称为第一层感知机——通过赋予输入的evidence权重，做出三个非常简单的决策。第二层感知机呢？每一个第二层感知机通过赋予权重给来自第一层感知机的决策结果，来做出决策。通过这种方式，第二层感知机可以比第一层感知机做出更加复杂以及更高层次抽象的决策。第三层感知机能够做出更加复杂的决策。通过这种方式，一个多层网络感知机可以做出更加精细的决策。
-    - 我之前定义感知机的时候，我说到感知机只有一个输出。在上面这个网络中，感知机似乎看上去有多个输出。实际上，它们仍然只有一个输出。多个输出箭头仅仅是用来方便表示它的输出被用作其它几个感知机的输入。如果画成一个输出分裂出几个箭头就太难看了。
-    - 让我们来简化一下对感知机的描述。∑j*wjxj* > threshold的条件太笨重了，我们可以通过使用两个新记法来简化它。第一是使用点乘来代替∑j*wjxj*。我们有w⋅x≡∑j*wjxj*，其中w和x都是向量，它们的元素分别代表了权重和输入。第二是将阈值移到不等号的另一侧，并使用偏移（bias）来代替阈值threshold， b≡-threshold。于是，感知机规则可以被重写为：
-    - 你可以将偏移（bias）理解为感知机为了得到输出为1的容易度的度量。如果从生物的角度来理解，偏移是使神经元被激活的容易度的度量。如果一个感知机的偏移非常大，那么这个感知机的输出很容易为1，相反如果偏移非常小，那么输出1就很困难。
-    - 我之前将感知机描述为通过权衡evidence做出决策的一种方法。感知机的另一种用途是计算初等逻辑函数，例如AND、OR和NAND。例如，假如一个感知机有两个输入，每一个权重都是−2，偏移为3
-    - 我们可以使用感知机来计算初等逻辑函数。
-    - 不要将输入感知机当做感知机，而是理解为一个特殊的单元，它能够输出我们想要的值x1,x2,…
-    - 可以设计**学习算法**（learning algorithm）使得能够自动地调整人工神经元网络的权重和偏移。这种调整能够对外部刺激作出响应，而不需要程序员的直接干预。这些学习算法使得我们能够用一种与传统逻辑门从根本上不同的方法使用人工神经元
-  - sigmoid神经元
-    - 我们该如何为神经网络量身设计一种学习算法呢？现在假设有一个由感知机构成的网络，我们想让这个网络学习如何去解决一些问题。举例来说，对于一个以手写数字的扫描图像的原始像素数据作为输入的网络，我们想要这个网络去学习**权值（weights）**和**偏移（biases）**以便最终正确地分类这些数字。
-    - 为了说明学习算法如何才能有效，我们首先假设在网络的一些权值（或偏移）上做一个小的改变
-    - 我们期望的结果是，这些在权值上的小改变，将会为网络的输出结果带来相应的改变，且这种改变也必须是轻微的。我们在后面将会看到，满足这样的性质才能使学习变得可能。
-    - 如果满足在权值（或偏移）上的小改变只会引起输出上的小幅变化这一性质，那么以此性质为基础，我们就可以改变权值和偏移来使得网络的表现越来越接近我们预期。例如，假设原始的网络会将一张写着「9」的手写数字图片错误分类为「8」。我们可以尝试找到一个正确的轻微改变权值和偏移的方法，来使得我们网络的输出更接近于正确答案——将该图片分类为「9」。重复这个过程，不断地修改权值和偏移并且产生越来越好的结果。这样我们的网络就开始学习起来了。
-    - 但问题在于，当我们的网络包含感知机时情况就与上述描述的不同了。事实上，轻微改变网络中任何一个感知机的权值或偏移有时甚至会导致感知机的输出完全翻转——比如说从0变为1。 
-    - 这个翻转行为可能以某种非常复杂的方式彻底改变网络中其余部分的行为。所以即使现在「9」被正确分类了，但网络在处理所有其他图片时的行为可能因一些难以控制的方式被彻底改变了。这导致我们逐步改变权值和偏移来使网络行为更加接近预期的学习方法变得很难实施。也许存在一些巧妙的方法来避免这个问题，但对于这种由感知机构成的网络，它的学习算法并不是显而易见的。
-    - 由此我们引入一种被称为**S型(sigmoid ，通常我们更习惯使用它的英文称呼，所以本文的其他地方也将使用原始的英文)**神经元的新型人工神经元来解决这个问题。sigmoid神经元与感知机有些相似，但做了一些修改使得我们在轻微改变其权值和偏移时只会引起小幅度的输出变化。这是使由sigmoid神经元构成的网络能够学习的关键因素。
-    - 沿用感知机的方式来描述sigmoid神经元。
-    - 和感知机一样，sigmoid神经元同样有输入，x1,x2,⋯ ， 但不同的是，这些输入值不是只能取0或者1，而是可以取0到1间的任意浮点值。所以，举例来说，0.638…对于sigmoid神经元就是一个合法输入。同样，sigmoid神经元对每个输入也有相应的权值，w1,w2,…，以及一个整体的偏移，b 。不过sigmoid神经元的输出不再是0或1，而是σ(w⋅x+b) ， 其中的σ被称为******sigmoid函数（sigmoid function）**1
-    - 更加准确的定义，sigmoid神经元的输出是关于输入x1,x2,…，权值w1,w2,…，和偏移b的函数
-    - 乍一看去，sigmoid神经元与感知机样子很不同。如果你对它不熟悉，sigmoid函数的代数形式看起来会有些晦涩难懂。但事实上，sigmoid神经元与感知机有非常多相似的地方。sigmoid函数的代数式更多地是展现了其技术细节
-    - 为了理解sigmoid神经元与感知机模型的相似性，我们假设z≡w⋅x+b是一个很大的正数。这时e−z≈0且σ(z)≈1。即是说，当z=w⋅x+b是一个很大的正数时，sigmoid神经元的输出接近于1，与感知机类似。另一方面，当z=w⋅x+b是一个绝对值很大的负数时，e−z→∞且σ(z)≈0。所以当z=w⋅x+b是一个绝对值很大的负数时，sigmoid神经元的行为与感知机同样很接近。只有当w⋅x+b是一个不太大的数时，其结果与感知机模型有较大的偏差。
-    - 的确切形式并不是那么重要——对于我们理解问题，真正重要的是该函数画在坐标轴上的样子。下图表示了它的形状：
-    - 个形状可以认为是下图所示**阶梯函数（step function）**的平滑版本：
-    - σ函数换成阶梯函数，那么sigmoid神经元就变成了一个感知机，这是因为此时它的输出只随着w⋅x+b的正负不同而仅在1或0这两个离散值上变化2。所以如前面所言，当使用σ函数时我们就得到了一个平滑的感知机。而且，σ函数的平滑属性才是其关键，不用太在意它的具体代数形式。σ函数的平滑属性意味着当我们在权值和偏移上做出值为Δwj，Δb的轻微改变时，神经元的输出也将只是轻微地变化Δoutput
-    - Δoutput是关于权值和偏移的改变量Δwj和Δb的**线性函数（linear function）**
-    - sigmoid神经元不仅与感知机有很多相似的性质，同时也使描述「输出怎样随权值和偏移的改变而改变」这一问题变得简单
-    - σ的形状起作用而其具体代数形式没有什么用的话，为什么公式(3)要把σ表示为这种特定的形式？事实上，在书的后面部分我们也会偶尔提到一些在输出f(w⋅x+b)中使用其它**激活函数（activation function）f(⋅)**的神经元。当我们使用其它不同的激活函数时主要改变的是公式(5)中偏微分的具体值。在我们需要计算这些偏微分值之前，使用σ将会简化代数形式，因为指数函数在求微分时有着良好的性质。不管怎样，σ在神经网络工作中是最常被用到的，也是本书中最频繁的激活函数。
-    - 如何解释sigmoid神经元的输出呢？显然，感知机和sigmoid神经元一个巨大的不同在于，sigmoid神经元不仅仅只输出0或者1，而是0到1间任意的实数，比如0.173…，0.689…都是合法的输出。在一些例子，比如当我们想要把神经网络的输出值作为输入图片的像素点的平均灰度值时，这点很有用处。但有时这个性质也很讨厌。比如在我们想要网络输出关于「输入图片是9」与「输入图片不是9」的预测结果时，显然最简单的方式是如感知机那样输出0或者1。不过在实践中我们可以设置一个约定来解决这个问题，比如说，约定任何输出值大于等于0.5的为「输入图片是9」，而其他小于0.5的输出值表示「输入图片不是9」。当以后使用类似上面的一个约定时，我都会明确地说明，所以这并不会引起任何的困惑。
-    - σ有时也被称作逻辑斯谛函数（logistic function），对应的这个新型神经元被称为逻辑斯谛神经元（ogistic neurons）
-    - 事实上，当w⋅x+b=0时感知机将输出0，但此时阶梯函数输出值为1。
-    - **sigmoid神经元模拟感知机（第一部分）**对一个由感知机组成的神经网络，假设将其中所有的权值和偏移都乘上一个正常数，c>0 ， 证明网络的行为并不会发生改变。
-  - 神经网络的结构
-    - 接下来这部分我将介绍一个能够良好分类手写数字的神经网络。在那之前，解释一些描述网络不同部分的术语是很有必要的。假设我们有如下网络：
-    - 网络中最左边的一层被称作**输入层**，其中的神经元被称为**输入神经元（input neurons）**。最右边的一层是**输出层（output layer）**，包含的神经元被称为**输出神经元(output neurons)**。在本例中，输出层只有一个神经元。网络中间的一层被称作**隐层（hidden layer）**，因为它既不是输入层，也不是输出层。「隐」这个字听起来似乎有点神秘的感觉——当我第一次听到这个字时认为其必然包含着深刻的哲学或数学含义——然而除了「既非输入、又非输出」这个含义外，它真的没有别的意思了。
-    - 这些多层网络有时又被称为**多层感知机（multilayer perceptron，MLP）**
-    - 因为这些网络都是由sigmoid神经元构成的，而非感知机。
-    - 网络的输入输出层设计是比较直观的。比如说，假如我们尝试判断一张手写数字图片上面是否写着「9」。很自然地，我们将图片像素的灰度值作为网络的输入。假设图片是64×64的灰度图像，那么我们需要4,096=64×64个输入神经元，每个神经元接受规格化的0到1间的灰度值。输出层只需要包含一个神经元，当输出值小于0.5时说明「输入图片不是9」，否则表明「输入图片是9」。
-    - 相对于输入输出层设计的直观，隐层的设计就是一门艺术了。特别的，单纯地把一些简单规则结合到一起来作为隐层的设计是不对的。事实上，神经网络的研究者们已经总结了很多针对隐层的启发式设计规则，这些规则能够用来使网络变得符合预期。举例来说，一些启发式规则可以用来帮助我们在隐层层数和训练网络所需的时间开销这二者间找到平衡
-    - 我们讨论的都是**前馈神经网络（feedforward neural networks）**，即把上一层的输出作为下层输入的神经网络。这种网络是不存在环的——信息总是向前传播，从不反向回馈。如果我们要制造一个环，那么我们将会得到一个使σ函数输入依赖于其输出的网络
-    - 这很难去理解，所以我们并不允许存在这样的环路。
-    - 但是，我们也有一些存在回馈环路可能性的人工神经网络模型。这种模型被称为**递归／循环神经网络（recurrent neural networks）**该模型的关键在于，神经元在变为非激活态之前会在一段有限时间内均保持激活状态
-    - 这种激活状态可以激励其他的神经元，被激励的神经元在随后一段有限时间内也会保持激活状态。如此就会导致更多的神经元被激活，一段时间后我们将得到一个级联的神经元激活系统。在这个模型中环路并不会带来问题，因为神经元的输出只会在一段之间之后才影响到它的输入，它并非实时的。
-    - 递归神经网络比起前馈神经网络影响力小很多，一部分原因是递归神经网络的学习算法还不够强大，至少目前是如此。不过递归神经网络依然非常有吸引力。从思想上来看它要比前馈神经网络更接近我们大脑的工作方式。而且递归神经网络也可能解决一些重要的、前馈神经网络很难处理的问题。不过为控制篇幅，本书将主要关注更广泛应用的前馈神经网络。
-  - 用简单的网络结构解决手写数字识别问题
-    - 定义了神经网络之后，让我们回到手写数字识别的问题上来。我们可以把手写数字识别问题拆分为两个子问题
-      - 首先，我们要找到一种方法能够把一张包含若干数字的图像分割为若干小图片，其中每个小图像只包含一个数字。举个例子，我们想将下面的图像
-      - 当图像被分割之后，接下来的任务就是如何识别每个独立的手写数字。
-    - 我们将把精力集中在实现程序去解决第二个问题，即如何正确分类每个单独的手写数字。因为事实证明，只要你解决了数字分类的问题，分割问题相对来说不是那么困难。
-    - 分割问题的解决方法有很多。一种方法是尝试不同的分割方式，用数字分类器对每一个切分片段打分。如果数字分类器对每一个片段的置信度都比较高，那么这个分割方式就能得到较高的分数；如果数字分类器在一或多个片段中出现问题，那么这种分割方式就会得到较低的分数。这种方法的思想是，如果分类器有问题，那么很可能是由于图像分割出错导致的。
-    - 为了识别数字，我们将会使用一个三层神经网络：
-    - 这个网络的输入层是对输入像素编码的神经元。正如我们在下一节将要讨论的，我们的训练数据是一堆28乘28手写数字的位图，因此我们的输入层包含了784=28×28个神经元。
-    - 输入的像素点是其灰度值，0.0代表白色，1.0代表黑色，中间值表示不同程度的灰度值。
-    - 网络的第二层是隐层。我们为隐层设置了n个神经元，我们会实验n的不同取值。在这个例子中我们只展现了一个规模较小的隐层，它仅包含了n=15个神经元
-    - 网络的输出层包含了10个神经元。如果第一个神经元被激活，例如输出≈1，然后我们可以推断出这个网络认为这个数字是0。如果第二层被激活那么我们可以推断出这个网络认为这个数字是1。以此类推。更精确一些的表述是，我们把输出层神经元依次标记为0到9，我们要找到哪一个神经元拥有最高的激活值。如果6号神经元有最高值，那么我们的神经网络预测输入数字是6。对其它的神经元也如此
-    - 最终的判断是基于经验主义的：我们可以实验两种不同的网络设计，结果证明对于这个特定的问题而言，10个输出神经元的神经网络比4个的识别效果更好。
-    - 们需要从根本原理上理解神经网络究竟在做些什么。首先考虑有10个神经元的情况。我们首先考虑第一个它能那么做是因为可以权衡从隐藏层来的信息。隐藏层的神经元在做什么呢？假设隐藏层的第一个神经元只是用于检测如下的图像是否存在
-    - 输出神经元，它告诉我们一个数字是不是0。
-    - 为了达到这个目的，它通过对此图像对应部分的像素赋予较大权重，对其它部分赋予较小的权重
-    - 如果所有这四个隐藏层的神经元被激活那么我们就可以推断出这个数字是0。当然，这不是我们推断出0的唯一方式——我们能通过很多其他合理的方式得到0 （举个例子来说，通过上述图像的转换，或者稍微变形）。但至少在这个例子中我们可以推断出输入的数字是0 。
-    - 假设神经网络以上述方式运行，我们可以给出一个貌似合理的理由去解释为什么用10个输出而不是4个。如果我们有4个输出，那么第一个输出神经元将会尽力去判断数字的最高有效位是什么。把数字的最高有效位和数字的形状联系起来并不是一个简单的问题。很难想象出有什么恰当的历史原因一个数字的形状要素会和一个数字的最高有效位有什么紧密联系。
-    - 通过在上述的三层神经网络加一个额外的一层就可以实现按位表示数字。额外的一层把原来的输出层转化为一个二进制表示，如下图所示。为新的输出层寻找一些合适的权重和偏移。假定原先的3层神经网络在第三层得到正确输出（即原来的输出层）的激活值至少是0.99，得到错误的输出的激活值至多是0.01。
-  - 通过梯度下降法学习参数
-    - 数字实际上就是我们在章节开始所提到的作为挑战去识别的图像。当然，当我们测试我们的神经网络时，我们需要让它去识别不属于训练集中的数据
-    - MNIST数据集可以分为两个部分。第一个部分包含了60000个训练图像第二部分是10000个测试图像。同样它们也是28乘28的灰度图像。我们将会用这些测试数据去评估我们的神经网络识别效果如何。
-    - 我们将会用x去定义训练输入。将每一个训练输入x视为一个28×28=784-维的向量
-    - 量的每一个输入代表一个图像的一个像素点的灰度值。我们定义输出为y=y(x)，每一个y 是一个 10-维的向量
-    - 我们需要的是一个算法让我们去找到合适的权重和偏置能让所有的训练输入x都近似于y(x)。
-    - 公式里面的w表示所有的权重的集合，b表示所有的偏置，n是训练数据的个数，a代表输出层的向量，这个和是包含了所有的训练输入x。当然输出a 取决于 x, w 和 b，
-    - 符号||v||是指向量v的模。我们把C称为二次代价函数；有时我们也称它为均方误差或者MSE
-    - 通过代价函数的形式我们可以得知它是非负的，因为加和的每一项都是非负的。另外，代价函数C(w,b)会变小，e.g.C(w,b)≈0，简单来说就是对于所有的训练输入x，我们的输出a将会接近y(x)。因此我们的学习算法能很好的工作如果它能找到合适的权重和偏置能让C(w,b)≈0。
-    - 因此我们的训练算法的目标就是通过调整函数的权重和偏执来最小化代价函数C(w,b)
-    - 寻找合适的权重和偏置让代价函数尽可能地小。我们将通过**梯度下降法**
-    - 为什么要介绍**平方代价**（quadratic cost）呢？毕竟我们最初所感兴趣的内容不是对图像正确地分类么？为什么不增大正确输出的得分，而是去最小化一个像平方代价类似的间接评估呢？这么做是因为在神经网络中，被正确分类的图像的数量所关于权重、偏置的函数并不是一个平滑的函数。大多数情况下，对权重和偏置做出的微小变动并不会影响被正确分类的图像的数量。这会导致我们很难去刻画如何去优化权重和偏置才能得到更好的结果。一个类似平方代价的平滑代价函数能够更好地指导我们如何去改变权重和偏置来达到更好的效果。这就是为何我们集中精力去最小化平方代价，只有通过这种方式我们才能让分类器更精确。
-    - 再次回顾一下，我们训练神经网络的目的是寻找合适的权重和偏置来最小化代价函数C(w,b)。
-    - 事实证明我们可以忽略大部分问题，把精力集中在最小化方面。
-    - 现在我们打算忘掉所有关于代价函数的具体形式，忘掉和神经网络有什么联系。现在想象我们仅仅是要去最小化一个给定的多元函数。我们打算介绍一种可以解决最小化问题的技术-梯度下降法。然后我们回到在神经网络中要最小化的函数上来。
-    - 假定我们要最小化某些函数，C(v)。它可能是任意的多元实值函数，v=v1,v2,…。注意我们将会用v去代表w和b以强调它可能是任意的函数-我们不会把问题局限在特定的神经网络上。假定C(v)有两个变量v1 和v2 ： valley 我们想要的就是得到它的全局最小值。
-    - 一种解决这个问题的方式就是分析性去计算出它的最小值。我们可以计算出偏导，利用偏导去寻找函数C的极值点。运气好的话我们的函数C只有一个或者少数的几个变量。
-    - 在神经网络中我们通常会需要大量的变量-最大的神经网络的代价函数包含了数亿个权重和偏置
-    - 为了更精确的描述这个问题，让我们想象一下如果我们在v1方向移动一个很小的量Δv1并在v2方向移动一个很小的量Δv2将会发生什么呢。通过计算可以告诉我们C将会产生如下改变：
-    - 我们将要寻找一种方式去选择Δv1和Δv2使得ΔC为负；比如，我们选择它们是为了让小球下落。
-    - 为了搞清楚如何选择，有必要定义Δv来代表v变化的向量，
-    - ∇C是一个梯度向量
-    - 这里的η是个很小的正数（就是我们熟知的学习速率）
-    - 那么C将一直会降低，不会增加。（当然，要在（9）式的近似约束下）。这就是我们想要的特性！因此我们把（10）式看做梯度下降算法的“运动定律”。也就是说，我们用（10）式计算Δv，把小球位置v移动
-    - 如果我们反复那么做，那么C会一直降低直到我们想要需找的全局最小值。
-    - 梯度下降算法工作的方式就是重复计算梯度 ∇C，然后沿着梯度的反方向运动。
-    - 为了使我们的梯度下降法能够正确地运行，我们需要选择足够小的学习速率η使得等式（9）能得到很好的近似。如果不那么做，我们将会以ΔC>0结束
-    - 这显然不是一个很好的结果。与此同时，我们也不能把η变得过小，因为如果η过小，那么梯度下降算法就会变得异常缓慢。在真正的实现中，η通常是变化的，
-    - 已经解释了具有两个变量的函数C的梯度下降法。但事实上当C是其他多元函数时也能很好地运行
-    - 我们假设C是一个有m个变量v1,…,vm的多元函数。我们对自变量做如下改变Δv=(Δv1,…,Δvm)T，那么ΔC 将会变为ΔC≈∇C⋅Δv
-    - 正如两个变量的例子一样，我们可以选取Δv=−η∇C, 
-    - 并且我们也会保证公式[（12）中ΔC是负数
-    - 这给了我们一种方式从梯度中去寻找函数的最小值，即使C是任意的多元函数
-    - 可以把这个更新规则看做梯度下降算法的定义。这给我们提供了一种方式去通过重复改变v来达到函数的最小值
-    - 然而这种规则并不总是有效的-有几件事能导致错误，让我们无法从梯度来求得函数C的全局最小值
-    - 从实践方面来看，梯度下降法通常效果非常好，在神经网络中这是一种非常有效的方式去求代价函数的最小值，进而促进网络自身的学习
-    - 有一种观念认为梯度下降法是求最小值的最优策略。我们假设努力去改变Δv来让C尽可能地减小，减小量为ΔC≈∇C⋅Δv。我们首先限制步长为固定值，即||Δv||=ϵ ，ϵ>0。当步长固定时，我们要找到使得C减小最大的下降方向。可以证明，使得∇C⋅Δv取得最小值的Δv为Δv=−η∇C，这里η=ϵ/||∇C||是由步长限制||Δv||=ϵ所决定的。因此，梯度下降法可以被视为一种通过在C下降最快的方向上做微小变化来使得C立即下降的方法。
-    - 有种叫做随机梯度下降(SGD) 的算法能够用来加速学习过程
-    - 想法就是通过随机选取小量输入样本来计算∇Cx，进而可以计算∇C。采取少量样本的平均值可以快速地得到梯度∇C，这会加速梯度下降过程，进而加速学习过程。
-    - 更准确地说，SGD是随机地选取小量的m个训练数据。我们将选取的这些训练数据标号X1,X2,…,Xm，并把它们称为一个mini-batch。我们选取的m要足够大才能保证∇CXj的平均值才能接近所有的平均值∇Cx
-    - SGD就是随机地选取大小为一个mini-batch的训练数据，然后去训练这些数据，
-    - 关于调节代价函数和mini-batch去更新权重和偏置有很多不同的约定。
-    - 使用小规模的mini-batch计算梯度，比使用整个训练集计算梯度容易得多，
-    - 我们只关心在某个方向上移动可以减少C，这意味着我们没必要准确去计算梯度的精确值
-    - 梯度下降一个比较极端的版本就是让mini-batch的大小变为1。
-    - 当我们选取另一个训练数据时也做同样的处理。其他的训练数据也做相同的处理。这种处理方式就是**online learning**
-    - 神经网络在一个时刻只学习一个训练数据
-    - 在神经网络中，代价函数C是一个关于所有权重和偏置的多元函数，因此在某种意义上来说，就是在一个高维空间定义了一个平面。
-  - 实现我们的网络来分类数字
-
-    - 写一个学习怎么样识别手写数字的程序，使用随机梯度下降法和MNIST训练数据。我们需要做的第一件事情是获取MNIST数据
-    - 我们将测试集保持原样，但是将60,000个图像的MNIST训练集分成两个部分：一部分50,000个图像，我们将用来训练我们的神经网络，和一个单独的10,000个图像的**验证集（validation set）**
-    - 验证数据，但是在本书的后面我们将会发现它对于解决如何去设置神经网络中的**超参数（hyper-parameter）**——例如学习率等不是被我们的学习算法直接选择的参数——是很有用的。
-    - 尽管验证数据集不是原始MNIST规范的一部分，然而许多人使用以这种方式使用MNIST，并且在神经网络中使用验证数据是很常见的。当我从现在起提到「MNIST训练数据」，我指的不是原始的60,000图像数据集，而是我们的50,000图像数据集
-    - 这段代码中，列表sizes包含各层的神经元的数量
-    - 因此举个例子，如果我们想创建一个在第一层有2个神经元，第二层有3个神经元，最后层有1个神经元的network对象，我们应这样写代码：   net = Network([2, 3, 1])
-    - Network对象的偏差和权重都是被随机初始化的，使用Numpy的np.random.randn函数来生成均值为0，标准差为1的高斯分布
-    - 随机初始化给了我们的随机梯度下降算法一个起点。在后面的章节中我们将会发现更好的初始化权重和偏差的方法，但是现在将采用随机初始化。
-    - 注意Network初始化代码假设第一层神经元是一个输入层，并对这些神经元不设置任何偏差
-    - 同样注意，偏差和权重以列表存储在Numpy矩阵中。因此例如**net.weights[1]**是一个存储着连接第二层和第三层神经元权重的Numpy矩阵。（不是第一层和第二层，因为Python列中的索引从0开始。）因此net.weights[1]相当冗长， 让我们就这样表示矩阵w。矩阵中的wjk是连接第二层的kth神经元和第三层的jth神经元的权重。这种j和k索引的顺序可能看着奇怪，当然交换j和k索引会更有意义？使用这种顺序的很大的优势是它意味着第三层神经元的激活向量是
-    - a是第二层神经元的激活向量。为了得到a′，我们用权重矩阵w乘以a，加上偏差向量b，我们然后对向量wa+b中的每个元素应用函数σ。**（这被叫做函数σ的向量化（vectorizing）。）**很容易验证等式（22）给出了跟我们之前的计算一个sigmoid神经元的输出的等式
-    - 注意，当输入z是一个向量或者Numpy数组时，Numpy自动的应用元素级的sigmoid函数，也就是向量化。
-    - training*data是一个代表着训练输入和对应的期望输出的元组（x,y）的列表。变量epochs和mini*batch*size是你期望的训练的迭代次数和取样时所用的mini-batch块的大小。eta是学习率η。*
-    - 这行调用了一个叫做叫**反向传播（backpropagation）**的算法，这是一种快速计算代价函数的梯度的方法。
-    - 我不得不对于训练的迭代次数，mini-batch大小和学习率η做了特殊的选择。正如我上面所提到的，这些在我们的神经网络中被称为超参数，以区别于通过我们的学习算法所学到的参数（权重和偏置）
-  - 迈向深度学习
-    - 虽然我们的神经网络给出了令人印象深刻的表现，但这个过程有一些神秘。网络中的权重和偏置是自动被发现的。这意味着我们不能对神经网络的运作过程有一个直观的解释。
-    - 设计出了一个网络，它将一个非常复杂的问题——这张图像是否有一张人脸——分解成在单像素层面上就可回答的非常简单的问题。在前面的网络层，它回答关于输入图像非常简单明确的问题，在后面的网络层，它建立了一个更加复杂和抽象的层级结构。包含这种多层结构（两层或更多隐含层）的网络叫做**深度神经网络（deep neural networks）**
-    - 在网络中通过人工来设置权重和偏置是不切实际的。取而代之的是，我们使用学习算法来让网络能够自动的从训练数据中学习权重和偏置
-    - 些深度学习技术基于随机梯度下降和反向传播，并引进了新的想法。这些技术能够训练更深（更大）的网络——现在训练一个有5到10层隐层的网络都是很常见的。而且事实证明，在许多问题上，它们比那些仅有单个隐层网络的浅层神经网络表现的更加出色。
-
-- 2. 反向传播是如何工作的
-
-  - ​
-    - 学习了神经网络是如何利用梯度下降算法来学习权重（weights）和偏置（biases）的。然而，在我们的解释中跳过了一个细节：**我们没有讨论如何计算损失函数的梯度**。这真是一个巨大的跳跃！在本章中我会介绍一个快速计算梯度的算法，就是广为人知的**\*反向传播算法***（backpropagation algorithm）
-    - 论文介绍了几种神经网络，在这些网络的学习中，反向传播算法比之前提出的方法都要快。这使得以前用神经网络不可解的一些问题，现在可以通过神经网络来解决。今天，反向传播算法是神经网络学习过程中的关键（workhorse）所在
-    - 想要理解神经网络，你必须了解其中的细节。反向传播算法的核心是一个偏微分表达式：
-    - 表示损失函数C对网络中的权重w（或者偏置b）求偏导。这个式子告诉我们，当我们改变权重和偏置的时候，损失函数的值变化地有多快
-    - 反向传播不仅仅是一种快速的学习算法，它能够让我们详细深入地了解改变权重和偏置的值是如何改变整个网络的行为的
-  - 热身：一个基于矩阵的快速计算神经网络输出的方法
-    - 在讨论反向传播算法之前，我们先介绍一个基于矩阵的快速计算神经网络输出的方法来热热身
-    - 先介绍一种符号来表示网络中的权重参数，这种表示法不会引发歧义。我们用w*l**jk*来表示从第*l*−1层的第*k*个神经元到第*l*层的第*j*个神经元的连接的权重。例如，下图展示了从第二层的第四个神经元到第三层的第二个神经元的连接的权重
-    - 一个奇怪之处就是*j*和*k*下标的顺序。你可能会认为用*j*表示输入神经元，用*k*表示输出神经元更加合理。然而并不是这样的。
-    - 我们用一种相似的记法来表示网络的偏置和激活值。确切地，我们用b*l**j*表示第*l*层第*j*个神经元的偏置，用a*l**j*表示第*l*层的第*j*个神经元的激活值
-    - 利用这些记法，第*l*层第*j*个神经元的激活值a*l**j*通过下面的式子与第*l*−1层神经元的激活值联系起来
-    - 这里的求和针对的是第*l*−1层的所有神经元*k*。为了将这个式子写成矩阵形式，我们为每一层*l*定义一个权重矩阵w*l*。矩阵w*l*的每一项就是连接到第*l*层神经元的权重，这就是说，w*l*中第*j*行第*k*列的元素就是w*l**jk*
-    - 最后一个我们需要改写成矩阵形式的想法就是把σ这样的函数向量化。我们在上一章中简单提到了向量化，这里面的思想就是我们想把一个函数比如σ，应用到一个向量v中的每一项。
-  - 关于损失函数的两个假设
-    - 反向传播算法的目标是计算代价函数C对神经网络中出现的所有权重w和偏置b的偏导数∂C/∂w和∂C/∂b。为了使反向传播工作，我们需要对代价函数的结构做两个主要假设。
-    - 反向传播实际上是对单个训练数据计算偏导数∂Cx/∂w和∂Cx/∂b。然后通过对所有训练样本求平均值获得∂C/∂w和∂C/∂b。事实上，有了这个假设，我们可以认为训练样本x是固定的，然后把代价Cx去掉下标表示为C。
-    - 这是一个关于输出激活值的函数。显然，该代价函数也依赖于期望的输出y，所以你可能疑惑为什么我们不把代价视为关于y的函数。记住，输入的训练样本x是固定的，因此期望的输出y也是固定的。
-  - Hadamard积
-    - 反向传播算法是以常见线性代数操作为基础——诸如向量加法，向量与矩阵乘法等运算。但其中一个操作相对不是那么常用。
-    - 具体来讲，假设s和t是两个有相同维数的向量。那么我们用s⊙t来表示两个向量的**对应元素(elementwise)**相乘
-    - 这种对应元素相乘有时被称为**Hadamard积（Hadamard product）**或**Schur积(Schur product)**。我们将称它为Hadamard积
-    - 优秀的矩阵库通常会提供Hadamard积的快速实现，这在实现反向传播时将会有用
-  - 反向传播背后的四个基本等式
-    - 反向传播(backpropagation)能够帮助解释网络的权重和偏置的改变是如何改变代价函数的。
-    - 归根结底，它的意思是指计算偏导数∂C/∂wljk和∂C/∂blj。但是为了计算这些偏导数，我们首先介绍一个中间量，δlj，我们管它叫做第l层的第j个神经元的错误量(error)。
-    - 反向传播会提供给我们一个用于计算错误量的流程，能够把δlj和∂C/∂wljk,∂C/∂blj关联起来。
-    - 为了理解错误量是如何定义的，想象一下在我们的神经网络中有一个恶魔
-    - 个恶魔位于第l层的第j个神经元。当神经元的输入进入时，这个恶魔扰乱神经元的操作。它给神经元的加权输入添加了一点改变Δzlj，这就导致了神经元的输出变成了σ(zlj+Δzlj)，而不是之前的σ(zlj)。这个改变在后续的网络层中传播，最终使全部代价改变了∂C/∂zlj*Δzlj。
-    - 这个恶魔变成了一个善良的恶魔，它试图帮助你改善代价，比如，它试图找到一个Δzlj能够让代价变小。假设∂C/∂zlj是一个很大的值（或者为正或者为负）。然后这个善良的恶魔可以通过选择一个和∂C/∂zlj符号相反的Δzlj使得代价降低。相比之下，如果∂C/∂zlj接近于0，那么这个恶魔几乎不能通过扰乱加权输入zlj改善多少代价。
-    - 这只是针对很小的Δzlj来说的。我们会做出假设来限制恶魔只能做出很小的变化。
-    - 受到这个故事的促动，我们定义l层第j个神经元的错误量δlj为
-    - 按照通常的习惯，我们使用δl来表示与l层相关联的错误量的向量。反向传播将会带给我们一个计算每一层δl的方法，然后把这些错误量联系到我们真正感兴趣的量：∂C/∂wljk和∂C/∂blj。
-    - 你可能想知道为什么恶魔一直在更改加权输入zlj。的确，更加自然的想法是，这个恶魔更改的是输出激活量alj，然后我们就可以使用∂C/∂alj来衡量错误。事实上如果你这么做，就会得到和之后的讨论十分相似的结果，但结果会使反向传播的代数形式变得复杂。所以我们会继续使用δlj=∂C/∂zlj用于衡量错误
-    - 术语”错误量（error）”通常用于表示分类的错误率（failure rate）。例如，如果神经网络的数字分类准确率是96.0%，那么错误率就是4.0%。
-    - 反向传播基于四个基本等式。这些等式带给我们一个计算错误量δl以及代价函数的梯度的方法
-    - 下面我会说明这四个等式。尽管如此，我在这里要告诫各位一下：不要期望立刻吸收理解这四个等式。你的这种期望会带失望的
-    - 事实上，反向传播的这几个等式内容很多，理解它们需要一定的时间和耐心，随着你会逐渐深入的探索才会真正理解。
-    - 现在先预览一下这些方法：我将给出这些等式的简短证明，帮助解释为什么它们是正确的；我们将要以伪代码的算法形式重新阐述一下这些等式，然后再看一下这些伪代码是如何通过Python代码实现的；在本章的最后一部分，我们将会开发一个直观的图片用来解释反向传播的这些等式是什么意思、一个人如何从零开始发现这些等式。在这些过程中，我们会重复提到四个基本等式，这样你也会加深对这些等式的理解，它们会变得舒服，甚至有可能变得漂亮而且自然。
-    - **输出层中关于错误量δL的等式**
-    - 这是一种非常自然的表达。右侧的第一项∂C/∂aLj，就是用于测量第j个输出激活代价改变有多快的函数。举个例子，如果C并不太依赖于某个特别的输出神经元j，那么δLj就会很小，这是我们所期望的。右侧的第二项σ′(zLj)，用于测量zLj处的激活函数σ改变有多快。
-    - 等式(BP1)是δL的分量形式。它是一个完美的表达式，但并不是我们想要的基于矩阵的形式，那种矩阵形式可以很好的用于反向传播。然而，我们可以很容易把等式重写成基于矩阵的形式，就像：
-    - ∇aC是一个向量，它是由∂C/∂aLj组成的。你可以把∇aC看做现对于输出激活的C的改变速率。很容易看出来等式(BP1)和(BP1a)是等价的
-    - **依据下一层错误量δl+1获取错误量δl的等式**
-    - 当我们使用转置权值矩阵(wl+1)T的时候，我们可以凭借直觉认为将错误反向（backward）移动穿过网络，带给我们某种测量第l层输出的错误量方法。然后我们使用Hadamard乘积⊙σ′(zl)。这就是将错误量反向移动穿过l层的激活函数，产生了l层的加权输入的错误量δl
-    - 如果输入神经元是低激活量的，或者输出神经元已经饱和（高激活量或低激活量），那么权重就会学习得缓慢。
-  - 4个基本方程的证明
-    - 现在我们将证明四个基本方程（BP1）-（BP4）。这四个方程都是多元积分链式法则的的结果。如果你对链式法则
-    - 我们从方程（BP1）开始讲解，该方程给出了输出错误量的表达式δL
-    - 链式法则, 我们可以把上述偏导数重新表达成带有输出激活的偏导数形式
-    - 这里的求和是对于输出层的所有神经元k而言的。当然，当k=j时，输出激活 aLK第kth个神经元只依赖于对第jth个神经元的输入权重zLj。并且当k≠j时，∂aLk/∂zLj项就没有了。因此我们可以简化之前的方程为
-    - 再证 (BP2)，它给出了根据下一层的错误量δl+1计算δl的等式。为证明该等式，我们先依据δkl+1=∂C/∂zkl+1重新表达下等式
-    - 最后一行，我们互换了下表达式右侧的两项，并取代了 δkl+1的定义。为了评估最后一行的第一项，注意
-    - 反向传播的四个基本方程的证明
-    - 证明看似复杂，但其实就是仔细应用链式法则得到的结果。简洁点说,我们可以把反向传播看作系统地应用多元变量微积分的链式法则计算代价函数梯度的方法。 这就是所有的反向传播内容，剩下的就是一些细节问题了
-  - 反向传播
-    - 反向传播等式为我们提供了一个计算代价函数梯度的方法。下面让我们明确地写出该算法：
-    - **输入 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjrGttTtrib652ycGF2vVgw2pPTwXOH933a6icvpxFg6npeRK9LibgAzzbo2f4LXv5jt1HzQribqbPxlibA/0?wx_fmt=png):**计算输入层相应的激活函数值![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjrGttTtrib652ycGF2vVgw2p1bSianfu1LNqJAgI9xAEaibac7zPupxiatK09y8HPykxoJDyD474M5k2A/0?wx_fmt=png)。
-    - **正向传播**
-    - **输出误差**
-    - **将误差反向传播**
-    - **输出**
-    - 算法就能看出它为什么叫**反向**传播算法
-    - 反向计算错误向量![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjrGttTtrib652ycGF2vVgw2plxLibQ5Y8nhYopyvnjacWs7f0VH1ibqnblaDxhfQeLyVhlCOsZEc3bqA/0?wx_fmt=png)。在神经网络中反向计算误差可能看起来比较奇怪。但如果回忆反向传播的证明过程，会发现反向传播的过程起因于代价函数是关于神经网络输出值的函数。为了了解代价函数是如何随着前面的权重和偏移改变的，我们必须不断重复应用链式法则，通过反向的计算得到有用的表达式。
-    - 假设我们修改了正向传播网络中的一个神经元，使得该神经元的输出为
-    - 在随机梯度下降算法中，我们需要计算一批训练样本的梯度。给定一小批(mini-batch)![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjrGttTtrib652ycGF2vVgw2plyDXiakANADYWQ13W5M1DX5qibykmO4xFwlqkTU4IaLAdRY7u4ykSteA/0?wx_fmt=png)个训练样本
-  - 反向传播算法代码
-    - 可以理解上一章中用来实现反向传播算法的代码了。
-    - **在一个批次（mini-batch）上应用完全基于矩阵的反向传播方法**
-    - 在我们的随机梯度下降算法的实现中，我们需要依次遍历一个批次（mini-batch）中的训练样例。我们也可以修改反向传播算法，使得它可以同时为一个批次中的所有训练样例计算梯度。我们在输入时传入一个矩阵![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjrGttTtrib652ycGF2vVgw2pCQFxtzHZJmThicRsqpV7dpMbrE3ibqFUll4OMdBiavsdISgoCKbaufKKw/0?wx_fmt=png)（而不是一个向量![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjrGttTtrib652ycGF2vVgw2pPTwXOH933a6icvpxFg6npeRK9LibgAzzbo2f4LXv5jt1HzQribqbPxlibA/0?wx_fmt=png)），这个矩阵的列代表了这一个批次中的向量
-    - 明确地写出这种反向传播方法，并修改`network.py`，令其使用这种完全基于矩阵的方法进行计算。
-    - 在实践中，所有正规的反向传播算法库都使用了这种完全基于矩阵的方法或其变种
-  - 为什么反向传播算法很高效
-    - 第一个想到使用梯度下降方法来进行训练的人！但是要实现这个想法，你需要一种计算代价函数梯度的方式
-    - 链式法则来计算梯度。但是琢磨了一会之后发现，代数计算看起来非常复杂，你也因此有些失落。所以你尝试着寻找另一种方法。你决定把代价单独当做权重的函数
-    - 我们可以利用相同的思想来对偏置求偏导
-    - 设想在我们的神经网络中有一百万个权重，对于每一个不同的权重![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjooEia8r1bdwicA62RZ2uddknCeagnMMYl4CiclpjjXwbwo6LQVicPROueGCKzAEpibibwmIvXC3nrW1GXg/0?wx_fmt=png)，为了计算![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjooEia8r1bdwicA62RZ2uddknibxwVGUsicTxOdgbI8pdOX32J0HibJAsaW9LEOwhDPbdVpEubUxZicWtAg/0?wx_fmt=png)，我们需要计算![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjooEia8r1bdwicA62RZ2uddknNxjVvXHnYOfvx5j152diayNwC2qn3HzzAAg0rODiaQemcDr84SNZFw6g/0?wx_fmt=png)。这意味着为了计算梯度，我们需要计算一百万次代价函数，进而对于每一个训练样例，都需要在神经网络中前向传播一百万次
-    - 反向传播的优点在于它仅利用一次前向传播就可以同时计算出所有的偏导![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjooEia8r1bdwicA62RZ2uddknibxwVGUsicTxOdgbI8pdOX32J0HibJAsaW9LEOwhDPbdVpEubUxZicWtAg/0?wx_fmt=png)，随后也仅需要一次反向传播
-    - 大致来说，反向传播算法所需要的总计算量与两次前向传播的计算量基本相等（这应当是合理的，但若要下定论的话则需要更加细致的分析。合理的原因在于前向传播时主要的计算量在于权重矩阵的乘法计算，而反向传播时主要的计算量在于权重矩阵转置的乘法
-    - 极大地拓展了神经网络能够适用的范围，也导致了神经网络被大量的应用。当然了，反向传播算法也不是万能的。在80年代后期，人们终于触及到了性能瓶颈，在利用反向传播算法来训练深度神经网络（即具有很多隐含层的网络）时尤为明显
-  - 反向传播：整体描述
-    - 反向传播涉及了两个谜题。第一个谜题是，**这个算法究竟在做什么？**我们之前的描述是将错误量从输出层反向传播。但是，我们是否能够更加深入，对这些矩阵、向量的乘法背后作出更加符合直觉的解释
-    - 第二个谜题是，**人们一开始是如何发现反向传播算法的？**按照算法流程一步步走下来，或者证明算法的正确性，这是一回事
-    - 但这并不代表你能够理解问题的本质从而能够从头发现这个算法。是否有一条合理的思维路线使你能够发现反向传播算法？在本节中，我会对这两个谜题作出解释。
-    - 为了更好地构建的反向传播算法在做什么的直觉，让我们假设我们对网络中的某个权重![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0J3uyFCg03Pib6yam1WjNEhuZP1IHsnna6aMJiccw050T02k2japrj7yw/0?wx_fmt=png)做出了一个小的改变量
-    - 改变量会导致与其相关的神经元的输出激活值的改变
-    - 推，会引起下一层的**所有**激活值的改变
-    - 些改变会继续引起再下一层的改变、下下层…依次类推，直到最后一层，然后引起代价函数的改变：
-    - 代价函数的改变量![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY01iaZGIkeG9UD9T16u0pGSGja6BzGicey7NvYibFtHlCedMAh9wAY1vDfw/0?wx_fmt=png)与最初权重的改变量![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0uq7lUTYUfsflHvh30xPfvBqY6Fs8OjicUnuiaAVkb6OwflheqzddK10w/0?wx_fmt=png)是有关
-    - 可能方法是，计算![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0J3uyFCg03Pib6yam1WjNEhuZP1IHsnna6aMJiccw050T02k2japrj7yw/0?wx_fmt=png)上的一个小改变量经过正向传播，对![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0BgZjmicSZCQ4ntuPlunEkVkFEVEGWahfLxk6eBiahW493rYdu6gEOMdw/0?wx_fmt=png)引起了多大的改变量。如果我们能够通过小心翼翼的计算做到这点，
-    - 激活值改变量![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0XsWNfIghUreuDwUvZeSsSequHKu91jGmK92kYFyrCfibnOk0riafwicXQ/0?wx_fmt=png)会引起下一层（第![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0jNQqntJgTicwKrLavFxH0K152N9GzDvYCHhBIiaGLHyo765Or8aJjzbw/0?wx_fmt=png)层）的所有激活值都改变。我们先关注其中的一个结点
-    - 当然，改变量![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0IE9ribZxqc7lxjBGVh0thjEEXeL7nbDRu7JzzOn8wx0icP5FORYqgUwQ/0?wx_fmt=png)会继续造成下一层的激活值的改变。实际上，我们可以想象一条从![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0J3uyFCg03Pib6yam1WjNEhuZP1IHsnna6aMJiccw050T02k2japrj7yw/0?wx_fmt=png)到![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0BgZjmicSZCQ4ntuPlunEkVkFEVEGWahfLxk6eBiahW493rYdu6gEOMdw/0?wx_fmt=png)的路径，其中每一个结点的激活值的改变都会引起下一层的激活值的改变，最终引起输出层的代价的改变。
-    - 这就计算出了在神经网络的这条路径上，最初的改变量引起了![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0BgZjmicSZCQ4ntuPlunEkVkFEVEGWahfLxk6eBiahW493rYdu6gEOMdw/0?wx_fmt=png)多大的改变。
-    - 我们现在只考虑了其中的一条路径。为了计算![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0BgZjmicSZCQ4ntuPlunEkVkFEVEGWahfLxk6eBiahW493rYdu6gEOMdw/0?wx_fmt=png)最终总共的改变量，很显然我们应该对所有可能的路径对其带来的改变量进行求和：
-    - 不过，它在直觉上很容易理解。我们计算出了![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjoCvuPCxmKStpodBKf5NkY0BgZjmicSZCQ4ntuPlunEkVkFEVEGWahfLxk6eBiahW493rYdu6gEOMdw/0?wx_fmt=png)相对于网络中的一个权重的变化速率
-    - 这个等式告诉我们的是，每一条连接两个神经元的边都可以对应一个变化速率，这个变化速率的大小是后一个神经元对前一个神经元的偏导。连接第一个权重和第一个神经元的边对应的变化速
-    - 从起始权重到最终代价上的所有可能的路径的变化速率的总和。
-    - 目前为止我所阐述的是一种启发式的观点，当你困惑于神经网络中的权重时，可以通过这种观点来思考。
-    - 你可以将反向传播算法看作是一种对所有路径上的所有变化率进行求和的方法。
-    - 或者用另外一种方式来说，反向传播算法是一种很聪明的方法
-
-- 3.改进神经网络的学习方法
-
-  - 改进神经网络的学习方法
-    - 高尔夫运动员刚开始接触高尔夫时，他们通常会花费大量的时间来练习基本的挥杆。只有不断矫正自己的挥杆方式，才能学好其它的技能：切球，打左曲球，右曲球。同理，到目前为止我们把精力都放在了理解反向传播算法（backpropagation algorithm）上。这是我们的最基本的“挥杆方式”，它是大多数神经网络的基础。在本章中我将介绍一套技术能够用于改进朴素的反向传播算法，进而能改进神经网络的学习方式。
-    - 选取更好的代价函数，就是被称为**交叉熵代价函数（the cross-entropy cost function）**；四种**正则化**方法（L1和L2正则、dropout、训练数据的扩展），这能让我们的网络适应更广泛的数据；一种更好的初始化权重（weight）的方法；一系列更具启发式的方法用来帮助我们选择网络的超参数（hyper-parameters）。我也会简单介绍一下其它的技术。这些讨论的内容之间是独立的，因此你可以跳跃着阅读。我们也会用代码实现这些技术去改进我们第一章的手写数字识别的结果。
-  - 交叉熵损失函数
-    - 我当时非常尴尬。尽管犯错时很不愉快，但是我们能够从明显的错误中学到东西
-    - 你能猜到在我下次弹奏的时候会把这个八度弹对。相反，如果错误很不明显的话，我们的学习速度将会很慢。
-    - 我们希望神经网络能够快速地从错误中学习。这种想法现实么？为了回答这个问题，让我们看一个小例子。这个例子包含仅有一个输入的单个神经元
-    - 输出![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo1y1KFJGgRqLZrPQWiccbRtrjsA5mYQXFBUubkibShnyvMHSvdeIeZhicg/0?wx_fmt=png)。当然，这是一个非常容易的任务，我们可以不利用任何学习算法，通过手算就能找到合适的权重（weight）和偏移（bias）
-    - 尽管如此，事实证明利用梯度下降法（gradient descent）能够帮助我们去学习权重和偏移。那么我们就来看一下这个神经元是如何学习的。
-    - 我将为权重选定初始值![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoMqsZkZU9DpQPWgnT0iasicsXibX2WJA2zzxGUV4bVRY5sEbjAqoRFiaMmQ/0?wx_fmt=png)，为偏移选定初始值![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo5LlHqmibF1w9ibO8H6LJbbS9DJ2SjdByqB0omqMIa2WribDOZr2lwuRYw/0?wx_fmt=png)。这是学习算法开始时一般的初始选择，我没有用到什么特殊的方式来选取这些初始值。神经元的第一次输出为![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoShezEI8uSynIzUSUBibJgoR9HRaGiaEFicIYzJtARMicX4DhM7Yz3ZArJQ/0?wx_fmt=png)，在到达我们的期望值![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo1y1KFJGgRqLZrPQWiccbRtrjsA5mYQXFBUubkibShnyvMHSvdeIeZhicg/0?wx_fmt=png)之前，神经元还需要很多轮学习迭代
-    - 神经元能够迅速地学习权重和偏移来降低代价函数，并最后给出大概![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPom2KYiaKxBoYQuGATGYLiahlPgf5ZRPMeubfzYDcWiblibicE8vhopbHZ7FQ/0?wx_fmt=png)左右的输出。
-    - 虽然这不是我们期待的输出，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo63NpFbNY3gBic6tplhrNQbRmKX3yiahibibpouKaVMQahx30UeRVodhGtg/0?wx_fmt=png)，但这个结果已经足够好了。假设我们把权重和偏移的初始值都选为
-    - 在这种情况下，初始的输出是![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoNiblWfFTv5icUYmNLrgD52Bbk4X2UVjwyCoxCGC0p3BUgt8QB02yOAmA/0?wx_fmt=png)，这是相当糟糕的结果。让我们看一下在这个例子中神经元是如何学
-    - 我们常常能够在错误很大的情况下能学习地更快。但是正如刚才所见，我们的人工神经元在错误很大的情况下学习遇到了很多问题。另外，事实证明这种行为不仅在这个简单的例子中出现，它也会在很多其他的神经网络结构中出现。为什么学习变慢了呢？我们能找到一种方法来避免这种情况么？
-    - 我们来考虑一下神经元的学习方式：通过计算代价函数的偏导![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoqicIMucSLKMAWFlw0wjPWUmOeJNXcg7ruwxAYO1E0QrwZEw6CMzVJjw/0?wx_fmt=png)和![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo8Po07aQatYfx8wbBdZtLm3icmaBeopC3vpvq8KAibCOh24dvWZCQlic5g/0?wx_fmt=png)来改变权重和偏移
-    - 那么我们说「学习速度很慢」其实上是在说偏导很小。那么问题就转换为理解为何偏导很小
-    - 下面我们用权重和偏移来重写这个式子
-    - 这种情况导致的速度下降不仅仅适应我们的示例神经元网络，它还适用于很多其他通用的神经元网络
-    - 我们可以用不同的代价函数比如交叉熵（cross-entropy）代价函数来替代二次代价函数
-    - 为了理解交叉熵，我们暂时先不用管这个示例神经元模型。我们假设要训练一个拥有多个输入变量的神经元：输入![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoy19REvN7iaNEhwaBK8BR5FWdDicibibCPF5DBib8bY9RQpHDDOm4QkZXk4g/0?wx_fmt=png)，权重![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoUpiamcQqHE4FHV7Db57icAiaXcsondyvXudOejrGZGiaBrfyWZq1Nic8hMg/0?wx_fmt=png)，偏移![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPor3uuvCFYy5KBB5pfI4woibCNb6IPSKQHa4NibQicQcRSX0LweaIcNRu2g/0?wx_fmt=png):
-    - 这里![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoJCJ4HGvDNcGI1B70CiaZUU2CSehZVjvn4FBEZibfCd7UZgpG8ETptusQ/0?wx_fmt=png)是训练数据的个数，这个加和覆盖了所有的训练输入![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPokk0JIFO8ogl7ianAnK8NtStP5icZ47yrcp4uKicBh0Magex2UNtqSEibkQ/0?wx_fmt=png)，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo21q1ZibJXb8E4ibAsUTugUCrvWbgnibVibrTAIuhT2kAuwOmQlLWdVNqzg/0?wx_fmt=png)是期望输出
-    - 仅从等式（57）我们看不出为何能解决速度下降的问题。
-    - 交叉熵有两个特性能够合理地解释为何它能作为代价函数。首先，它是非负的，也就是说，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoN5xW20qZ8sV0KScUNmq0ZP4LjHeia5EiaFiaLn8dcJiajzwRcBrJHUwcNA/0?wx_fmt=png)。为了说明这个，我们需要注意到：(a)等式（57）加和里的每一项都是负的，因为这些数是![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo1y1KFJGgRqLZrPQWiccbRtrjsA5mYQXFBUubkibShnyvMHSvdeIeZhicg/0?wx_fmt=png)到![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoPHqS23iaepueGe2ttJUPNXr4UKlqmdRGMGyMRoCdK7BpGUO2kjW7OYQ/0?wx_fmt=png)之间的，它们的对数是负的；(b)整个式子的前面有一个负号。
-    - 其次，如果对于所有的训练输入![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPokk0JIFO8ogl7ianAnK8NtStP5icZ47yrcp4uKicBh0Magex2UNtqSEibkQ/0?wx_fmt=png)，这个神经元的实际输出值都能很接近我们期待的输出的话，那么交叉熵将会非常接近0。为了说明这个，假设有一些输入样例![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPokk0JIFO8ogl7ianAnK8NtStP5icZ47yrcp4uKicBh0Magex2UNtqSEibkQ/0?wx_fmt=png)得到的输出是![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoWbaoWGxg7TqmcR9wmzkfziaGcPSPbsgBWciaSwVPM2o77fwoyeZEedmA/0?wx_fmt=png)，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo5aW58yArMDXWaeyDXZvrPhibgLkkmKiass5wKR6IiaoEibicMj39MxSibXlA/0?wx_fmt=png)。这些都是一些比较好的输出。我们会发现等式（57）的第一项将会消掉，因为![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPolNx4ZZBT1icGS8ssbRHMILKGBz856MPFUPw8KRj5cYibw52VrTqvPH2A/0?wx_fmt=png)，与此同时，第二项![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPohOKbsAMDTpaewNyrhzZJk7X9TAzIOiaGcJ7rXSE9Y1UXgnXzLuBeibGw/0?wx_fmt=png)。同理，当![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoQPHic3ibMI6QvstCTGwa0okdwwicw5jaKNibibSAMB6kBdXLic3NL8eUJHjw/0?wx_fmt=png)或![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPojscBoR0NLyf3Ck7kfib5ev5fHgtF6OObSicQGKicPMichg31fTUxNCVLiaw/0?wx_fmt=png)时也如此分析。那么如果我们的实际输出接近期望输出的话代价函数的分布就会很低
-    - 交叉熵是正的，并且当所有输入![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPokk0JIFO8ogl7ianAnK8NtStP5icZ47yrcp4uKicBh0Magex2UNtqSEibkQ/0?wx_fmt=png)的输出都能接近期望输出![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo21q1ZibJXb8E4ibAsUTugUCrvWbgnibVibrTAIuhT2kAuwOmQlLWdVNqzg/0?wx_fmt=png)的话，交叉熵的值将会接近![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo1y1KFJGgRqLZrPQWiccbRtrjsA5mYQXFBUubkibShnyvMHSvdeIeZhicg/0?wx_fmt=png)[^1]。这两个特征在直觉上我们都会觉得它适合做代价函数。事实上，我们的均方代价函数也同时满足这两个特征。这对于交叉熵来说是一个好消息。而且交叉熵有另一个均方代价函数不具备的特征，它能够避免学习速率降低的情况。为了理解这个，我们需要计算一下交叉熵关于权重的偏导
-    - 我们权重的学习速率可以被![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPovGD0YNORob35ISCu9mJbiadic8As0aFG9iaN7bibAkqKuaLGbPK2dgnIhQ/0?wx_fmt=png)控制，也就是被输出结果的误差所控制。误差越大我们的神经元学习速率越大。这正是我们直觉上所期待的那样。另外它能避免学习减速，这是![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoQGzSoqvJrPOmKUWCcJnqic8ltE7F09fFzCWiayF7moyD4jpgjpIWKWicw/0?wx_fmt=png)一项导致的。当我们使用交叉熵时，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoQGzSoqvJrPOmKUWCcJnqic8ltE7F09fFzCWiayF7moyD4jpgjpIWKWicw/0?wx_fmt=png)这一项会被抵消掉，因此我们不必担心它会变小。这种消除是交叉熵代价函数背后所带来的惊喜。实际上，这并不是一个惊喜。稍后我们会看到，我们特意选取了具有这种特性的函数。
-    - 我需要假设![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo21q1ZibJXb8E4ibAsUTugUCrvWbgnibVibrTAIuhT2kAuwOmQlLWdVNqzg/0?wx_fmt=png)的输出只能为![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPo1y1KFJGgRqLZrPQWiccbRtrjsA5mYQXFBUubkibShnyvMHSvdeIeZhicg/0?wx_fmt=png)或者![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoPHqS23iaepueGe2ttJUPNXr4UKlqmdRGMGyMRoCdK7BpGUO2kjW7OYQ/0?wx_fmt=png)。这种情况特别在分类问题，或者在计算布尔函数时出现。如果你想知道如果我们不做这个假设时会发生什么，请查看本节最后的练习。
-    - 代价函数发生改变之后我们不能很精确的定义什么是「相同」的学习速率
-    - 你可能会反对学习速率的改变，因为这会让上面的例子变得没有意义。如果我们随意选取学习速率那么谁还会在意神经元学习地有多快呢？这种反对偏离了重点。这个例子的重点不是再说学习速度的绝对值。它是在说明学习速度是如何变化的。当我们使用均方误差代价函数时，如果选取一个错的离谱的开始，那么学习速度会明显降低；而我们使用交叉熵时，这种情况下学习速度并没有降低。这根本不取决于我们的学习速率是如何设定的。
-    - 交叉熵用于单个神经元的情况。事实上，这很容易推广到多层神经网络上。我们假设![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoSyV89FS9PiaFm4znPn8LSImgkbatvlU5Sgna6Cd8aUuKtS6rZJnln3g/0?wx_fmt=png)是我们期望的输出，例如，在神经元的最后一层，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoNHKULcnicFuXuycYYNibdbt7gMkic1kePKxOwic769nPZs2SqH3DuQV8yQ/0?wx_fmt=png)是真实的输出
-    - 如果输出神经元是sigmoid神经元的话，交叉熵都是更好的选择
-    - **输出层是线性神经元（linear neurons）的时候使用均方误差**
-    - 有一个多层神经网络。假设最后一层的所有神经元都是*线性神经元（linear neurons）*意味着我们不用sigmoid作为激活函数，输出仅仅是![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoE4WJorEnqFticIeun4h63icleicAj6cQDCwgFFHZWrO4AqlJkaibFMbnIw/0?wx_fmt=png)。如果我们用均方误差函数时，输出误差![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPoicLKF7kicZsuy1Kl4QDrxZuJ9U9ib1U1RrOGte8ae34aicbSmckcO9XL7w/0?wx_fmt=png)对于每个训练输入![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjpU2ZKG81XIBtUZCbDHiadPokk0JIFO8ogl7ianAnK8NtStP5icZ47yrcp4uKicBh0Magex2UNtqSEibkQ/0?wx_fmt=png)为
-    - 前的问题类似，利用这个表达式我们在输出层对权重和偏移求导
-  - 使用交叉熵解决手写数字识别问题
-    - 我们可以很容易在程序中将交叉熵应用于梯度下降法（gradient descent）和反向传播算法（backpropagation）
-    - 先看一下新程序解决手写数字问题的效果如何。和第一章的例子一样，我们的网络将用30个隐层神经元，mini-batch的大小选为10。设定学习速率为η=0.52，迭代次数选为30。
-    - 这条命令是用来初始化权重和偏移的。我们需要运行一下这条命令，因为在这章的后面我会改变我们网络初始化权重的默认方式。
-    - 接下来我们选取隐藏层神经元个数为100，代价函数为交叉熵函数，其它的参数保持不变。在
-    - 如学习速率，mini-batch的大小等等。
-  - 交叉熵意味着什么，从哪里来
-    -   交叉熵的直观意义是什
-    -   在信息论领域是有一种标准方式来解释交叉熵的。大致说来，想法就是：交叉熵是对惊讶的测度
-  - Sotfmax
-    - 主要使用交叉熵代价函数来解决学习速度衰退的问题。不过，我想首先简要的介绍一下解决这个问题的另一种方法，这种方法是基于神经元中所谓的 *softmax* 层
-    - 面因为 softmax 在本质上很有趣，另一方面因为我们将要在第六章使用 softmax 层，那时候我们要讨论深度神经网络。
-    - softmax 的主要思想是为我们的神经网络定义一种新的输出层。跟之前的 sigmoid 层一样，它也是对加权输入
-    - 不一样的地方是，在获取输出结果的时候我们并不使用 sigmoid 函数。取而代之，在 softmax 层中我们使用 *softmax 函数 *应用到![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqia4XmnQMJGo1QDw4T2Oib0rdCDkib4j0hyAMkpPbeJicicenJmL1fIzYW2O3RYsL4A1RCrk38Xs9YWnQ/0?wx_fmt=png)。根据这个函数，第![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqia4XmnQMJGo1QDw4T2Oib0rC6yqxAMwymiaLIfIL4G8ibbMHSGRKGmQ3KibdfTeasyaeyQ2bFvsaHekQ/0?wx_fmt=png)个输出神经元的激活值![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqia4XmnQMJGo1QDw4T2Oib0rNCae9QOl48g3UgKDx3fia51vzCW5PyJNyQdMMwTzJRtLu6EYF4I8KcQ/0?wx_fmt=png)是
-    - 那么公式（78）可能看上去很难理解。同时也不太能理解为什么我们想要用这个函数以及这个函数如何帮助我们解决学习速度衰退的问题。为了更好的理解公式（
-    - 从 softmax 层得到的输出可以看做是一个概率分布。
-    - 我们就可以在包含 softmax 输出层和 log-likelihood 代价函数的网络中应用反向传播算法了
-  - 过拟合和正则化
-    - 诺贝尔物理学奖获得者恩里科·费米（Enrico Fermi）曾经被问及如何看待某个数学模型被一些物理学家应用到一个悬而未决的重要物理问题上。虽然模型与实验结果契合的很好，但费米还是对此有所怀疑。他问道「在这个模型中有多少个可以自由设置的参数」，他得到的答案是「4 个」。费米回复说1「我的朋友约翰尼·冯诺依曼（Johnny von Neumann）常说，他用四个参数可以模拟一头大象，用五个可以使它摇动鼻子。」
-    - 费米的这个观点是在表明：有大量自由参数的模型能够描述一个足够宽泛的现象。即使这样的模型与现有的数据吻合得很好，这也不能说它是一个好的模型。这仅仅只能说明，有足够自由度的模型基本上可以描述任何给定大小的数据集，但是它并没有真正地洞察到现象背后的本质。这就会导致该模型在现有的数据上表现得很好，但是却不能普及到新的情况上。判断一个模型真正好坏的方法，是看其对未知情况的预测能力。
-    - 费米和冯诺伊曼对持有四个参数的模型都抱有怀疑的态度。然而我们分类 MNIST 数字所用的30个隐藏神经元网络就有将近24000个特征！这个数量非常庞大。100个隐藏神经元网络有接近80000个特征，最先进的深度神经网络或许包含数百万，甚至数亿计的特征。我们应该相信这些结果吗
-    - 我们会制造出一种情况，使我们的网络不能够很好地适应新数据。假设我们使用有30个隐藏神经元网络，其中含有23860个参数。但是不用全部的50000个 MINST 图像做训练，而仅仅使用前1000个。用较小的训练集能够使突出泛化的问题。此外，我们依然用交叉熵代价函数来训练模型，学习率为eta = 0.5，mini-batch 的大小选为10。然而，与之前不同的是，我们将要迭代400次，由于使用了较少的训练实例，所以就要较多的训练次数。让我们用 network2看一下代价函数的变化趋势：
-    - 在我们的神经网络中，把280步视为模型开始过拟合的转折点。
-    - 正如我们期望的那样，代价在平滑地下降。请注意，图中仅仅展示了第200次迭代到第399次迭代的阶段
-    - 我选取了图表的一部分。在前200步（未显示）准确率上升到接近百分之82。然后学习的效果就逐渐放缓。最后，在280步附近，分类准确率几乎停止改善
-    - 仅仅在280步就达到的准确率附近有一些小的随机波动。与上一个图表对比，我们会发现，训练数据的代价函数值是持续下降的。如果我们只关注代价函数，模型似乎一直在“改进”
-    - 在280步之后，我们网络的学习不能够再很好地推广到测试数据上。所以此时的学习是无用的。在280步之后，我们称此时的网络是*过拟合（overfitting）*或*过训练（overtraining）*的。
-    - 测试数据的代价在15步前一直在降低，之后它开始变大，然而训练数据的代价是在持续降低的。这是另外一个能够表明我们的模型是过拟合的迹象。而此时，我们遇到了一个难题，到底哪一个才是发生过拟合的关键点，15步还是280步？从实际应用的角度来看，我们真正关心的是提高测试数据的分类精度，而测试数据的代价只不过是分类精度的附属品。因此，在我们的神经网络中，把280步视为模型开始过拟合的转折点。
-    - 上升到百分之100。也就是说，网络能正确分类所有1000个训练图像！而与此同时，测试准确率仅为百分之82.27。所以我们的网络只是在学习训练集的特性，而不能完全识别普通的数字。就好像网络仅仅是在记忆训练集，而没有真正理解了数字能够推广到测试集上。
-    - 过拟合是神经网络中一个主要的问题。尤其是在含有大量权重和偏差参数的现代网络中。为了更有效地训练，我们需要一种能够检测过拟合发生时间的方法，这样就不会发生过度训练。此外，我们也需要一种能减少过拟合影响的技术
-    - 如果测试数据的精度不再提高，就应该停止训练。当然，严格地说，这也不一定就是过拟合的迹象，也许需要同时检测到测试数据和训练数据的精度都不再提高时才行。当然，这个策略是能够避免过拟合的。
-    - 将使用 `validation_data` 而不是 `test_data` 来预防过拟合。为了做到这一点，将使用与上面 `test_data` 相同的方法。也就是说，在每一步训练之后，计算 `validation_data` 的分类精度。一旦 `validation_data` 的分类精度达到饱和，就停止训练。这种策略叫做*提前终止*
-    - 相比使用1000张训练实例，使用50000张训练实例的情况下，测试数据和训练数据的准确率更加接近。特别地，训练数据上最高的分类精度百分之97.86仅仅比测试数据的百分之95.33高出1.53个百分点。而之前有百分之17.73的差距！虽然过拟合仍然存在，但已经大大降低了。我们的网络能从训练数据更好地泛化到测试数据。一般来说，增加训练数据的数量是降低过拟合的最好方法之一。如果拥有足够的训练数据，要让一个非常庞大的网络过拟合也是比较困难的。不幸的是，训练数据的获取成本太高，因此这通常是一个不现实的选择
-  - 正则化
-    - 避免过拟合的方法之一是增加训练数据数量。那么，还有没有别的方法能让我们避免过拟合呢？一种可能的方法是减小网络的规模。然而，我们并不情愿减小规模，因为大型网络比小型网络有更大的潜力。
-    - 哪怕使用固定的网络和固定的训练数据，我们还有别的方法来避免过拟合。这就是所谓的*正则化（regularization）*技术。在这一节我将描述一种最常用的正则化技术——*权重衰减（weight decay）*或叫* L2 正则（L2 regularization）*
-    - L2 正则的思想是，在代价函数中加入一个额外的正则化项。这是正则化之后的交叉熵
-    - 第一项是常规的交叉熵表达式。但我们加入了第二项，也就是网络中所有权值的平方和。它由参数 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1E3ehTJhfuibWbfakTzNicvROdm3K01IWAYY8nVWPiasibLElrRAkjbhObA/0?wx_fmt=png) 进行调整，其中 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1RhShRN8cdVruB6hKNjgicdg7Z1UY3dHESsOF4rmZvd5Ck56e5oDf18w/0?wx_fmt=png) 被称为*正则化参数（regularization parameter）*，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1RueIKs5mtMSBibEVQXNQOgKpOPTrpteXq2OP1NWhZ5NxKnFvvEYcjcA/0?wx_fmt=png) 是我们训练集的大小。我稍后会讨论应该如何选择 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HlIc5xpP4sQCF5BLaf9LjeEpNvhIEoykWjDc8fajv5NlDDSWMQy7Yg/0?wx_fmt=png)。另外请注意正则化项*不*包括偏移
-    - 我们也可以对其它的代价函数进行正则化，例如平方代价。正则化的方法与上面类似：
-    - 在两种情况中，我们都能把正则化的代价函数写成：
-    - 直观来说，正则化的作用是让网络偏好学习更小的权值，而在其它的方面保持不变。选择较大的权值只有一种情况，那就是它们能显著地改进代价函数的第一部分。换句话说，正则化可以视作一种能够折中考虑小权值和最小化原来代价函数的方法。两个要素的相对重要性由 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HlIc5xpP4sQCF5BLaf9LjeEpNvhIEoykWjDc8fajv5NlDDSWMQy7Yg/0?wx_fmt=png) 的值决定：当 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HlIc5xpP4sQCF5BLaf9LjeEpNvhIEoykWjDc8fajv5NlDDSWMQy7Yg/0?wx_fmt=png) 较小时，我们偏好最小化原本的代价函数，而 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HlIc5xpP4sQCF5BLaf9LjeEpNvhIEoykWjDc8fajv5NlDDSWMQy7Yg/0?wx_fmt=png) 较大时我们偏好更小的权值。
-    - 它的确能够减少过拟合。我们将在下一部分阐述为何这样的折中能够减少过拟合。先让我们通过一个例子展示正则化确实能够减小过拟合
-    - 为了构建这样一个例子，我们首先要解决如何把随机梯度下降学习算法应用于正则化的神经网络中。
-    - 我们尤其需要知道如何对网络中所有的权值和偏移计算偏导数
-    - 可由反向传播计算。于是我们发现计算正则化代价函数的梯度相当简单：只要照常使用反向传播
-    - 这种调整有时也被称作*权重衰减*
-    - 因为它减小了权重。一眼看去权值将被不停地减小直到为 0。
-    - 但实际上并不是这样的，因为如果可以减小未正则化的成本函数的话，式中的另外一项可能会让权值增加
-    - 这就是梯度下降实现的方法。那么随机梯度下降呢？和未正则化的随机梯度下降一样，我们首先在包含 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1iaKTANTibyVY4B5rhHscAZn6A2tgJoCYDDJrcOwgah1sDqGXR0Sq8JEQ/0?wx_fmt=png) 个训练样例的 mini-batch 数据中进行平均以估计 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1mfZL8vTGbiaOjf3y4h7dotCXcXtn7NJFvABj3pPfVeatuPCj7sUqJHg/0?wx_fmt=png) 的值。因此对于随机梯度下降法而言正则化的学习方法就变成了
-    - 其中的求和是对 mini-batch 中的所有训练样例进行的，![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1TTveBIGPJvBgPjL4LCgdGw3s7IYVxLdyH1E6Pw9T2VqptubLWewq8Q/0?wx_fmt=png) 是每个样例对应的未正则化的代价。这与通常的随机梯度下降方法一致，除了权重衰减变量 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1FSS1zF1uUeic52EF1NuSDu1TibY9Hxyy0ETz6ibfJiaaHO9EKUacBkmAyQ/0?wx_fmt=png)。最后，为了表述完整，我要说明对于偏移的正则化学习规则
-    - 让我们看看正则化如何改变了我们的神经网络的表现。我们将使用一个神经网络来进行验证，其包含 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1xcYcSxJNCKG8gzDvKe4CjaJqkQeQzlyj6sEVIACae97woQfz9NncHw/0?wx_fmt=png) 个隐藏神经元，mini-batch 大小为 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1HflW1frMK624kq7NueHgKJoNy1HO2d8elR7v5YXkCOzBLrfbdAYGpw/0?wx_fmt=png)，学习率为 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1R2OWpibNZYnE06tgBAcRSr7wCV0FzHm02rODU9M8UQ5Mg2o2m1tWz3A/0?wx_fmt=png)，并以交叉熵作为代价函数。然而，这次我们设置正则化参数 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1zRW1GEBGfWicHKQGDX2GeicQqiaNIWiaLM9FT2XRS2g6S6qrOgLLKI0o2A/0?wx_fmt=png)。注意在代码中，我们使用变量名 `lmbda`，因为 `lambda` 是 Python 的保留字，其含义与此无关。我也再次使用了 `test_data` 而非 `validation_data`。严格来说，我们应该使用 `validation_data`，详细原因我们在此前已经解释过。不过我决定用 `test_data` 因为它能让结果与我们此
-    - 应用正则化抑制了过拟合。同时，准确率也显著提升了：分类准确率峰值为
-    - 实际上，我们几乎确定，继续进行迭代可以得到更好的结果。从经验来看，正则化让我们的网络生成得更好，并有效地减弱了过拟合效应。
-    - 第二，我们能看到训练数据的结果与测试数据的之间的间隙相比之前
-    - 最后，让我们看看当我们使用 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1w3hVibvRxfpLj4WyOwKYiaILRftFSMjKccfx8tVslSft1mw716ojb9Lg/0?wx_fmt=png) 个隐藏神经元并设置 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjp4C31gXS4k49CEkmkFoVia1gzqg0Cp0kOZu7Zcv6VY0gmich51I3rIVh0NT314hqA0MGib14vnqicREQ/0?wx_fmt=png) 时测试分类准确率。我将不会对这里的过拟合进行详细的分析，这只是纯粹为了有趣，只为了看看我们使用新的技巧
-    - 如果代价函数没有正则化，那么权重向量的长度倾向于增长，而其它的都不变。随着时间推移，权重向量将会变得非常大。这可能导致权重向量被限制得或多或少指向同一个方向，因为当长度过长时，梯度下降只能带来很小的变化。我相信这一现象令我们的学习算法难于恰当地探索权重空间，因而难以给代价函数找到一个好的极小值。
-  - 为什么正则化能降低过拟合
-    - 实验发现正则化能帮助减少过拟合。这是令人高兴的事，然而不幸的是，我们没有明显的证据证明为什么正则化可以起到这个效果！一个大家经常说起的解释是：在某种程度上，越小的权重复杂度越低，因此能够更简单且更有效地描绘数据，所以我们倾向于选择这样的权重
-    - 能预测 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqLVhYG5QyYGKsJiaYtc5XR4ogRG4tSReK27iaPMJ24jMnqlM8j6A9MHxDbbmItJPgf3L99UstFGy1g/0?wx_fmt=png) 的函数。我们可以尝试使用神经网络来构建模型，但是我将使用更简单的方法：我将把 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqLVhYG5QyYGKsJiaYtc5XR4ogRG4tSReK27iaPMJ24jMnqlM8j6A9MHxDbbmItJPgf3L99UstFGy1g/0?wx_fmt=png) 建模为关于 ![Rendered by QuickLaTeX.com](http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/58FUuNaBUjqLVhYG5QyYGKsJiaYtc5XR4HUSbILulseHiaKicdhIHUjmcQV8txbtxgibxMkl6ibBbjm9SP4QWTzoeDw/0?wx_fmt=png) 的多项式。我们将使用这种方法来代替神经网络，因为多项式模型十分透明。一旦我们理解了多项式的情况，我们就可以把它迁移到神经网络上。
-    - 小权重意味着网络的行为不会因为我们随意更改了一些输入而改变太多。这使得它不容易学习到数据中局部噪声。可以把它想象成一种能使孤立的数据不会过多影响网络输出的方法，相反地，一个正则化的网络会学习去响应一些经常出现在整个训练集中的实例
-    - 与之相对的是，如果输入有一些小的变化，一个拥有大权重的网络会大幅改变其行为来响应变化。因此一个未正则化的网络可以利用大权重来学习得到训练集中包含了大量噪声信息的复杂模型
-    - 正则化网络能够限制在对训练数据中常见数据构建出相对简单的模型，并且对训练数据中的各种各样的噪声有较好的抵抗能力。所以我们希望它能使我们的网络真正学习到问题中的现象的本质，并且能更好的进行泛化
-    - 由于这些原因，我们通常不对偏置做正则化。
-  - 其他正则化技术
-    - 除了 L2 外还有很多规范化技术。实际上，正是由于数量众多，我这里也不会将所有的都列举出来。在本节，我简要地给出三种减轻过度拟合的其他的方法：L1 规范化、弃权(Dropout)和人为增加训练样本。
-    - 我们不会像上面介绍得那么深入。其实，目的只是想让读者熟悉这些主要的思想，然后来体会一下规范化技术的多样性。
-    - L1 规范化 这个方法是在未规范化的代价函数上加上一个权重绝对值的和：
-    - 凭直觉地看，这和 L2 规范化相似，惩罚大的权重，倾向于让网络优先选择小的权重。当然，L1 规范化和 L2 规范化并不相同，所以我们不应该期望从 L1 规范化得到完全同样的行为。让我们来试着理解使用 L1 规范化训练的网络和 L2 规范化训练的网络所不同的行为。
-    - 我们可以轻易地对反向传播进行修改从而使用基于 L1 规范化的随机梯度下降进行学习。
-    - ​
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+《神经网络与深度学习》连载翻译：参见技能1
 
 
 
