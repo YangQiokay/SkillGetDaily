@@ -4,20 +4,30 @@
 
 ​    
 
- ##                      **「礼貌的笑了笑，寸步不让，产出」** 
+ ##                      **「Fight！秋招」** 
 
 -----
 
 关于「学术论文／研究项目／工程项目／创业项目」：
 
-### 关于「技能&专业书」：
+### A.关于「Fight！秋招」「技能&专业书」：1／num
 
-##### **[1.《神经网络与深度学习》连载翻译原文地址](http://chuansong.me/n/1895437651113)**
+#### **[1.《神经网络与深度学习》连载翻译原文地址](http://chuansong.me/n/1895437651113)**
 
-- 个人背诵笔记：[图片版本](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/1.%3C神经网络与深度学习%3E.md)
+- 个人总结笔记：[「神经网络与深度学习」](https://github.com/GeekQi/SkillGetDaily/blob/master/Skill%26Note/1.神经网络与深度学习.md)
+
+
+### B.关于「Fight！秋招」「数量仙姑」：0/num
 
 
 
+
+
+
+
+
+
+---
 
 ### 关于「练手到熟练项目」：1%
 
