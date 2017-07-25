@@ -11,5 +11,9 @@
     <orderEntry type="module" module-name="neural-networks-and-deep-learning-master" />
     <orderEntry type="module" module-name="neural-networks-and-deep-learning-master" />
     <orderEntry type="module" module-name="3.1PreProcessing" />
+    <orderEntry type="module" module-name="Sample" />
+    <orderEntry type="module" module-name="CommunityDetection" />
+    <orderEntry type="module" module-name="Sample2" />
+    <orderEntry type="module" module-name="Publish_Sample" />
   </component>
 </module>
